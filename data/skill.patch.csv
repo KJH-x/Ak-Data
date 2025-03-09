@@ -1,0 +1,79 @@
+patch_amiya_1,patch,amiya,1,战术咏唱·γ型,戦術詠唱γ,Tactical Chant γ
+patch_texas_1,patch,texas,1,冲锋号令·γ型,突撃指令γ,Charge γ
+patch_reed2_1,patch,reed2,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_hbisc2_1,patch,hbisc2,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_greyy2_1,patch,greyy2,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_franka_1,patch,franka,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_silent_1,patch,silent,1,治疗强化·γ型,回復力強化γ,Healing Up γ
+patch_fmout_1,patch,fmout,1,战术咏唱·β型,戦術詠唱β,Tactical Chant β
+patch_siege_1,patch,siege,1,冲锋号令·γ型,突撃指令γ,Charge γ
+patch_headbr_1,patch,headbr,1,冲锋号令·γ型,突撃指令γ,Charge γ
+patch_hibisc_1,patch,hibisc,1,治疗强化·α型,回復力強化α,Healing Up α
+patch_lava_1,patch,lava,1,战术咏唱·α型,戦術詠唱α,Tactical Chant α
+patch_beagle_1,patch,beagle,1,防御力强化·α型,防御力強化α,DEF Up α
+patch_fang_1,patch,fang,1,冲锋号令·α型,突撃指令α,Charge α
+patch_estell_1,patch,estell,1,攻击力强化·α型,攻撃力強化α,ATK Up α
+patch_plosis_1,patch,plosis,1,治疗强化·γ型,回復力強化γ,Healing Up γ
+patch_nights_1,patch,nights,1,攻击力强化·α型,攻撃力強化α,ATK Up α
+patch_ghost_1,patch,ghost,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_scave_1,patch,scave,1,冲锋号令·β型,突撃指令β,Charge β
+patch_snakek_1,patch,snakek,1,防御力强化·β型,防御力強化β,DEF Up β
+patch_myrtle_1,patch,myrtle,1,支援号令·β型,支援指令β,Support β
+patch_skfire_1,patch,skfire,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_cgbird_1,patch,cgbird,1,治疗强化·γ型,回復力強化γ,Healing Up γ
+patch_flower_1,patch,flower,1,治疗强化·β型,回復力強化β,Healing Up β
+patch_skgoat_1,patch,skgoat,1,攻击力强化·β型,攻撃力強化β,ATK Up β
+patch_clour_1,patch,clour,1,攻击力强化·β型,攻撃力強化β,ATK Up β
+patch_falco_1,patch,falco,1,迅捷打击·α型,迅速攻撃α,Swift Strike α
+patch_leto_1,patch,leto,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_poca_1,patch,poca,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_blackd_1,patch,blackd,1,冲锋号令·β型,突撃指令β,Charge β
+patch_typhon_1,patch,typhon,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_platnm_1,patch,platnm,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_melan_1,patch,melan,1,攻击力强化·α型,攻撃力強化α,ATK Up α
+patch_ardign_1,patch,ardign,1,生命回复·α型,HP回復α,Regeneration α
+patch_adnach_1,patch,adnach,1,攻击力强化·α型,攻撃力強化α,ATK Up α
+patch_ansel_1,patch,ansel,1,治疗范围强化,回復範囲強化,Healing Range Up
+patch_mostma_1,patch,mostma,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_cuttle_1,patch,cuttle,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_grani_1,patch,grani,1,防御力强化·γ型,防御力強化γ,DEF Up γ
+patch_bpipe_1,patch,bpipe,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_greyy_1,patch,greyy,1,战术咏唱·α型,戦術詠唱α,Tactical Chant α
+patch_popka_1,patch,popka,1,攻击力强化·α型,攻撃力強化α,ATK Up α
+patch_orchid_1,patch,orchid,1,迅捷打击·α型,迅速攻撃α,Swift Strike α
+patch_skadi_1,patch,skadi,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_sddrag_1,patch,sddrag,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_durnar_1,patch,durnar,1,攻击力强化·β型,攻撃力強化β,ATK Up β
+patch_gyuki_1,patch,gyuki,1,生命回复·β型,HP回復β,Regeneration β
+patch_thorns_1,patch,thorns,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_susuro_1,patch,susuro,1,治疗强化·β型,回復力強化β,Healing Up β
+patch_leizi_1,patch,leizi,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_mudrok_1,patch,mudrok,1,防御力强化·γ型,防御力強化γ,DEF Up γ
+patch_bison_1,patch,bison,1,防御力强化·γ型,防御力強化γ,DEF Up γ
+patch_cammou_1,patch,cammou,1,攻击力强化·β型,攻撃力強化β,ATK Up β
+patch_sidero_1,patch,sidero,1,生命回复·γ型,HP回復γ,Regeneration γ
+patch_sntlla_1,patch,sntlla,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_aosta_1,patch,aosta,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_chiave_1,patch,chiave,1,冲锋号令·γ型,突撃指令γ,Charge γ
+patch_saga_1,patch,saga,1,冲锋号令·γ型,突撃指令γ,Charge γ
+patch_lionhd_1,patch,lionhd,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_sesa_1,patch,sesa,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_bubble_1,patch,bubble,1,防御力强化·β型,防御力強化β,DEF Up β
+patch_pudd_1,patch,pudd,1,战术咏唱·β型,戦術詠唱β,Tactical Chant β
+patch_elysm_1,patch,elysm,1,支援号令·γ型,支援指令γ,Support γ
+patch_kjera_1,patch,kjera,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_rfalcn_1,patch,rfalcn,1,冲锋号令·γ型,突撃指令γ,Charge γ
+patch_rockr_1,patch,rockr,1,战术咏唱·γ型,戦術詠唱γ,Tactical Chant γ
+patch_malist_1,patch,malist,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_quartz_1,patch,quartz,1,攻击力强化·β型,攻撃力強化β,ATK Up β
+patch_peper_1,patch,peper,1,掩护作战·γ型,援護作戦γ,Shielding Tactics γ
+patch_chimes_1,patch,chimes,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_coldst_1,patch,coldst,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_harold_1,patch,harold,1,治疗强化·γ型,回復力強化γ,Healing Up γ
+patch_wanqin_1,patch,wanqin,1,支援号令·γ型,支援指令γ,Support γ
+patch_fartth_1,patch,fartth,1,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
+patch_ashlok_1,patch,ashlok,1,攻击力强化·γ型,攻撃力強化γ,ATK Up γ
+patch_sleach_1,patch,sleach,1,支援号令·γ型,支援指令γ,Support γ
+patch_buildr_1,patch,buildr,1,冲锋号令·γ型,突撃指令γ,Charge γ
+patch_vendla_1,patch,vendla,1,战术咏唱·γ型,戦術詠唱γ,Tactical Chant γ
+
