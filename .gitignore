@@ -1,6 +1,14 @@
-imgs/*
+# download content
 wiki_list.html
 skill.json
+imgs/*
+
+# Maunal content
 *xlsx
+
+# private config
 .hintrc
 path.txt
+
+# export content
+*.*.json
