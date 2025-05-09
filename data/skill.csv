@@ -1,33 +1,33 @@
 name,type,object,version,zh_CN,ja_JP,en_US
 skchr_absin_1,skchr,absin,1,执法模式,執行態勢,Enforcement Mode
 skchr_absin_2,skchr,absin,2,终结连射,告死の弾雨,Ultimatum
-skchr_acast_1,skchr,acast,1,“为我所为”,「我が成すことを成せ」,'All For Me'
-skchr_accast_1,skchr,accast,1,“书我所书”,-,-
-skchr_accast_2,skchr,accast,2,“为我所为”,-,-
-skchr_accast_3,skchr,accast,3,“驭我所驭”,-,-
+skchr_acast_1,skchr,acast,1,“为我所为”,「我が成すことを成せ」,'All That I Do'
+skchr_accast_1,skchr,accast,1,“书我所书”,「我が記すものを記せ」,'All That I Author'
+skchr_accast_2,skchr,accast,2,“为我所为”,「我が成すことを成せ」,'All That I Do'
+skchr_accast_3,skchr,accast,3,“驭我所驭”,「我が御すものを御せ」,'All That I Command'
 skchr_acdrop_1,skchr,acdrop,1,花式点射,ファンシーショット,Fancy Shot
 skchr_acdrop_2,skchr,acdrop,2,扳机时刻,ダブルトリガー,Trigger Time
-skchr_acfend_1,skchr,acfend,1,结构稳定,-,-
-skchr_acfend_2,skchr,acfend,2,不变性原理,-,-
-skchr_acfend_3,skchr,acfend,3,应力倒置,-,-
-skchr_acguad_1,skchr,acguad,1,快刀,-,-
-skchr_acguad_2,skchr,acguad,2,亮剑,-,-
-skchr_acguad_3,skchr,acguad,3,力战不竭,-,-
-skchr_acmedc_1,skchr,acmedc,1,慨赠,-,-
-skchr_acmedc_2,skchr,acmedc,2,宛如天启,-,-
-skchr_acmedc_3,skchr,acmedc,3,恳切福音,-,-
-skchr_acnipe_1,skchr,acnipe,1,破空,-,-
-skchr_acnipe_2,skchr,acnipe,2,心手合一,-,-
-skchr_acnipe_3,skchr,acnipe,3,旋臂,-,-
-skchr_acpion_1,skchr,acpion,1,钻心,-,-
-skchr_acpion_2,skchr,acpion,2,迅瞬,-,-
-skchr_acpion_3,skchr,acpion,3,只余芬芳,-,-
-skchr_acspec_1,skchr,acspec,1,物理的服从,-,-
-skchr_acspec_2,skchr,acspec,2,战争的恭顺,-,-
-skchr_acspec_3,skchr,acspec,3,空间的归依,-,-
-skchr_acsupo_1,skchr,acsupo,1,双声,-,-
-skchr_acsupo_2,skchr,acsupo,2,三形,-,-
-skchr_acsupo_3,skchr,acsupo,3,信号跃动,-,-
+skchr_acfend_1,skchr,acfend,1,结构稳定,構造堅牢化,Structural Stability
+skchr_acfend_2,skchr,acfend,2,不变性原理,不変性原理,Invariance Principle
+skchr_acfend_3,skchr,acfend,3,应力倒置,応力反転,Stress Inversion
+skchr_acguad_1,skchr,acguad,1,快刀,快刀,Swiftblade
+skchr_acguad_2,skchr,acguad,2,亮剑,鋭刃,Drawing Sword
+skchr_acguad_3,skchr,acguad,3,力战不竭,死力,To The Bitter End
+skchr_acmedc_1,skchr,acmedc,1,慨赠,高潔なる贈与,Generous Gift
+skchr_acmedc_2,skchr,acmedc,2,宛如天启,天啓の光,Apocalyptic Scene
+skchr_acmedc_3,skchr,acmedc,3,恳切福音,懇願の福音,Earnest Gospel
+skchr_acnipe_1,skchr,acnipe,1,破空,破空,Skyshatter
+skchr_acnipe_2,skchr,acnipe,2,心手合一,心技一体,One With the Bow
+skchr_acnipe_3,skchr,acnipe,3,旋臂,旋風矢,Pronation
+skchr_acpion_1,skchr,acpion,1,钻心,貫心,Estocada
+skchr_acpion_2,skchr,acpion,2,迅瞬,瞬迅,Ráfaga
+skchr_acpion_3,skchr,acpion,3,只余芬芳,残り香,Lingering Scent
+skchr_acspec_1,skchr,acspec,1,物理的服从,服従せし法則,When Physics Obeys
+skchr_acspec_2,skchr,acspec,2,战争的恭顺,恭順せし戦争,When War Complies
+skchr_acspec_3,skchr,acspec,3,空间的归依,帰依せし空間,When Space Surrenders
+skchr_acsupo_1,skchr,acsupo,1,双声,双音,Diphony
+skchr_acsupo_2,skchr,acsupo,2,三形,三形,Triform
+skchr_acsupo_3,skchr,acsupo,3,信号跃动,躍動するシグナル,Impulse Signal
 skchr_aglina_1,skchr,aglina,1,秘杖·速充模式,秘杖・急収束　,Arcane Staff - Quick Charge Mode
 skchr_aglina_2,skchr,aglina,2,秘杖·微粒模式,秘杖・微粒子,Arcane Staff - Particle Mode
 skchr_aglina_3,skchr,aglina,3,秘杖·反重力模式,秘杖・反重力,Arcane Staff - Anti-Gravity Mode
@@ -37,6 +37,8 @@ skchr_agoat2_3,skchr,agoat2,3,火山回响,ヴォルケーノ・エコー,Volcan
 skchr_aguard_1,skchr,aguard,1,亮剑,鋭刃,Drawing Sword
 skchr_akafyu_1,skchr,akafyu,1,信影流·雷刀之势,信影流・雷刀之勢,Nobukage-ryu - Kaminari Gatana no Zei
 skchr_akafyu_2,skchr,akafyu,2,信影流·十文字胜,信影流・十文字勝,Nobukage-ryu - Juumonji Masaru
+skchr_alanna_1,skchr,alanna,1,气动增压,-,-
+skchr_alanna_2,skchr,alanna,2,“万斤顶”,-,-
 skchr_almond_1,skchr,almond,1,磁力抓取,マグネットキャッチャー,Magnetic Grab
 skchr_almond_2,skchr,almond,2,强力牵引,ハイパートラクション,Power Traction
 skchr_amedic_1,skchr,amedic,1,宛如天启,天啓の光,Apocalyptic Scene
@@ -49,6 +51,9 @@ skchr_amiya3_1,skchr,amiya3,1,哀恸共情,悲痛共感,Empathy of Grief
 skchr_amiya3_2,skchr,amiya3,2,慈悲愿景,慈悲先途,Vision of Mercy
 skchr_amiya_2,skchr,amiya,2,精神爆发,ソウルブースト,Spirit Burst
 skchr_amiya_3,skchr,amiya,3,奇美拉,キメラ,Chimera
+skchr_angel2_1,skchr,angel2,1,天空大扫除,-,-
+skchr_angel2_2,skchr,angel2,2,开火成瘾症,-,-
+skchr_angel2_3,skchr,angel2,3,使命必达！,-,-
 skchr_angel_1,skchr,angel,1,冲锋模式,アサルトモード,Charging Mode
 skchr_angel_2,skchr,angel,2,扫射模式,バーストモード,Shooting Mode
 skchr_angel_3,skchr,angel,3,过载模式,オーバーロード,Overloading Mode
@@ -115,8 +120,8 @@ skchr_blkngt_1,skchr,blkngt,1,半醒,うたた寝,Drowsy
 skchr_blkngt_2,skchr,blkngt,2,安眠,深き眠り,Peaceful Slumber
 skchr_bluep_1,skchr,bluep,1,二重射击·自动,ダブルショット,Twinshot - Auto
 skchr_bluep_2,skchr,bluep,2,毒液散射,毒液装填,Venom Spray
-skchr_bobb_1,skchr,bobb,1,非和平劝说,-,-
-skchr_bobb_2,skchr,bobb,2,“此路不通”,-,-
+skchr_bobb_1,skchr,bobb,1,非和平劝说,非友好的交渉,Nonpeaceful Negotiation
+skchr_bobb_2,skchr,bobb,2,“此路不通”,「通行止め」,'You Shall Not Pass'
 skchr_bpipe_2,skchr,bpipe,2,高效冲击,ハイパーインパクト,High-Impact Assault
 skchr_bpipe_3,skchr,bpipe,3,闭膛连发,クローズドボルト連射,Locked Breech Burst
 skchr_breeze_1,skchr,breeze,1,集束疗法,集中療法,Cluster Therapy
@@ -137,8 +142,8 @@ skchr_cammou_2,skchr,cammou,2,同步索敌攻击,同調索敵攻撃,Synchronized
 skchr_caper_1,skchr,caper,1,强力击·β型,強撃β,Power Strike β
 skchr_caper_2,skchr,caper,2,乐趣加倍,ハピネス200％！,Double the Fun
 skchr_catap_1,skchr,catap,1,爆破范围提升·α型,爆破範囲拡大α,Blast Range Up α
-skchr_cathy_1,skchr,cathy,1,岁月锻打,-,-
-skchr_cathy_2,skchr,cathy,2,战火淬炼,-,-
+skchr_cathy_1,skchr,cathy,1,岁月锻打,歳月による鍛造,Wrought by Age
+skchr_cathy_2,skchr,cathy,2,战火淬炼,戦火の焼き入れ,Tempered by War
 skchr_ccheal_1,skchr,ccheal,1,活力再生,回復力促進,Vitality Restoration
 skchr_ccheal_2,skchr,ccheal,2,活力再生·广域,回復力促進・広域,Vitality Restoration - Wide Range
 skchr_cello_1,skchr,cello,1,“黄金的狂喜”,「黄金のエクスタシー」,'Golden Ecstasy'
@@ -163,8 +168,8 @@ skchr_chen_1,skchr,chen,1,鞘击,鞘打ち,Sheathed Strike
 skchr_chen_2,skchr,chen,2,赤霄·拔刀,赤霄・抜刀,Chi Xiao - Unsheath
 skchr_chen_3,skchr,chen,3,赤霄·绝影,赤霄・絶影,Chi Xiao - Shadowless
 skchr_chiave_2,skchr,chiave,2,火焰剥离,火炎剥離,Blazing Wire Stripper
-skchr_chilc_1,skchr,chilc,1,开锁工具,-,-
-skchr_chilc_2,skchr,chilc,2,随机应变,-,-
+skchr_chilc_1,skchr,chilc,1,开锁工具,ピッキングツール,Lockpicks
+skchr_chilc_2,skchr,chilc,2,随机应变,臨機応変,Improvisation
 skchr_chimes_2,skchr,chimes,2,乡心无改,郷思の念,Longing for Home
 skchr_chnut_1,skchr,chnut,1,积微成著,積土成山,Little by Little
 skchr_chnut_2,skchr,chnut,2,厚土迸发,厚土の脈動,Rising Earth
@@ -176,15 +181,15 @@ skchr_coldst_2,skchr,coldst,2,酣醉之夜,夜に酔いしれて,Party Night
 skchr_cqbw_1,skchr,cqbw,1,红桃K,ハートのK,King of Hearts
 skchr_cqbw_2,skchr,cqbw,2,惊吓盒子,びっくり箱,Jack in the Box
 skchr_cqbw_3,skchr,cqbw,3,D12,D12,D12
-skchr_crosly_1,skchr,crosly,1,尘烟蔽目,-,-
-skchr_crosly_2,skchr,crosly,2,硝烟震爆,-,-
-skchr_crosly_3,skchr,crosly,3,烽烟行刑场,-,-
+skchr_crosly_1,skchr,crosly,1,尘烟蔽目,煙塵の目眩まし,Smoke and Mirrors
+skchr_crosly_2,skchr,crosly,2,硝烟震爆,硝煙の爆震,Smokebomb Blast
+skchr_crosly_3,skchr,crosly,3,烽烟行刑场,狼煙の処刑場,Smokescreen Execution
 skchr_crow_1,skchr,crow,1,高速切割,ソニックスラッシュ,Rapid Slashing
 skchr_crow_2,skchr,crow,2,收割,リーピング,Reap
 skchr_ctable_1,skchr,ctable,1,观火,洞見,Penetrating Gaze
 skchr_ctable_2,skchr,ctable,2,浮光,水光,Specular Reflection
-skchr_ctrail_1,skchr,ctrail,1,紧急升空,-,-
-skchr_ctrail_2,skchr,ctrail,2,掠空飞翎,-,-
+skchr_ctrail_1,skchr,ctrail,1,紧急升空,緊急離陸,Emergency Take-Off
+skchr_ctrail_2,skchr,ctrail,2,掠空飞翎,空を切る羽根,Skyswoop Shot
 skchr_cutter_1,skchr,cutter,1,红移,レッドシフト,Redshift
 skchr_cutter_2,skchr,cutter,2,绯红刺刀,スカーレットエッジ,Crimson Crescent
 skchr_cuttle_2,skchr,cuttle,2,阻滞射击战术,脅威妨害戦術,Interdictive Sniping Tactics
@@ -282,6 +287,8 @@ skchr_gnosis_2,skchr,gnosis,2,零度爆发,ゼロバースト,Zero-Point Burst
 skchr_gnosis_3,skchr,gnosis,3,失温症,ハイポサーミア,Hypothermia
 skchr_grabds_1,skchr,grabds,1,竹笛飞声,吹笛遠鳴,Flute Flutter
 skchr_grabds_2,skchr,grabds,2,乡音沉沉,郷愁を誘う子守歌,Hometown Lullaby
+skchr_graceb_1,skchr,graceb,1,开颅挽歌,-,-
+skchr_graceb_2,skchr,graceb,2,破膛弥撒,-,-
 skchr_grani_2,skchr,grani,2,永不后退！,引かない！,Press the Attack!
 skchr_gravel_1,skchr,gravel,1,影袭,スニークガード,Shadow Assault
 skchr_gravel_2,skchr,gravel,2,鼠群,鼠の縄張り,Rat Swarm
@@ -376,13 +383,16 @@ skchr_kjera_2,skchr,kjera,2,心随意动,心意のままに,Unrestrained Heart
 skchr_kroos2_1,skchr,kroos2,1,无痕,無痕,Traceless
 skchr_kroos2_2,skchr,kroos2,2,封喉,矢継ぎ早,Silencer
 skchr_kroos_1,skchr,kroos,1,二连射·自动,2点・バースト,Double Tap - Auto
-skchr_laios_1,skchr,laios,1,胆小剑助,-,-
-skchr_laios_2,skchr,laios,2,威吓战法,-,-
+skchr_laios_1,skchr,laios,1,胆小剑助,臆病なケン助,Cowardly Kensuke
+skchr_laios_2,skchr,laios,2,威吓战法,威嚇戦法,Intimidation Tactics
 skchr_lasher_1,skchr,lasher,1,上紧发条,ゼンマイ巻き,Winding Up
 skchr_lasher_2,skchr,lasher,2,权知轻重,天秤の持ち手,Weighing the Scales
 skchr_lava2_1,skchr,lava2,1,焰淬匕首,フレイムエンチャント,Flame Quenched Dagger
 skchr_lava2_2,skchr,lava2,2,狱火之环,プルガトリオ,Ring of Hellfire
 skchr_leizi_2,skchr,leizi,2,初雷,初雷,Thunderclap
+skchr_lemuen_1,skchr,lemuen,1,重逢问候,-,-
+skchr_lemuen_2,skchr,lemuen,2,归乡邀约,-,-
+skchr_lemuen_3,skchr,lemuen,3,礼炮·强制追思,-,-
 skchr_lessng_1,skchr,lessng,1,强力击·γ型,強撃γ,Power Strike γ
 skchr_lessng_2,skchr,lessng,2,虔修对决,苦行の縛り,Clash of the Faithful
 skchr_lessng_3,skchr,lessng,3,苦修破誓,誓いの破棄,Oathbreaker
@@ -417,9 +427,9 @@ skchr_luton_2,skchr,luton,2,强磁防卫,強磁場シールド,Magnetic Defense
 skchr_malist_2,skchr,malist,2,神工意匠,マスターピース,Prodigious Craftsmanship
 skchr_mantic_1,skchr,mantic,1,蝎毒,アジトキシン,Scorpion Venom
 skchr_mantic_2,skchr,mantic,2,蓄力毒尾击,スコーピオンテール,Toxic Overload
-skchr_marcil_1,skchr,marcil,1,才女的实力,-,-
-skchr_marcil_2,skchr,marcil,2,召唤使魔,-,-
-skchr_marcil_3,skchr,marcil,3,爆破魔法,-,-
+skchr_marcil_1,skchr,marcil,1,才女的实力,才女の実力,A Top Student's Abilities
+skchr_marcil_2,skchr,marcil,2,召唤使魔,使い魔召喚,Summon Familiar
+skchr_marcil_3,skchr,marcil,3,爆破魔法,爆破魔法,Explosion Magic
 skchr_mberry_1,skchr,mberry,1,治愈云雾,ヒーリングミスト,Healing Haze
 skchr_mberry_2,skchr,mberry,2,安全区域,セーフティゾーン,Safe Zone
 skchr_melnte_1,skchr,melnte,1,饱和脉冲,飽和パルス,Saturated Pulse
@@ -449,6 +459,9 @@ skchr_mm_1,skchr,mm,1,麻痹弹,ストップショット,Paralyzing Shell
 skchr_mm_2,skchr,mm,2,束缚电击,スタンショック,Binding Shock
 skchr_moeshd_1,skchr,moeshd,1,自动防御,防御態勢,Auto Defense
 skchr_moeshd_2,skchr,moeshd,2,磁爆锤,テスラハンマー,Magnetic Hammer
+skchr_monstr_1,skchr,monstr,1,策略：超压链接,-,-
+skchr_monstr_2,skchr,monstr,2,策略：超负荷,-,-
+skchr_monstr_3,skchr,monstr,3,策略：熔毁,-,-
 skchr_morgan_1,skchr,morgan,1,街头好手,ストリートパンク,Professional Street Fighter
 skchr_morgan_2,skchr,morgan,2,无畏招架,大胆不敵,Dauntless Resistance
 skchr_mostma_2,skchr,mostma,2,荒时之锁,時荒びの黒き錠,Lock of Shattered Time
@@ -512,8 +525,8 @@ skchr_phatom_3,skchr,phatom,3,夜幕突袭,襲来の悪夢,Night Raid
 skchr_phenxi_1,skchr,phenxi,1,“你须直面”,「直視せよ」,'Provocate'
 skchr_phenxi_2,skchr,phenxi,2,“你须愧悔”,「慚愧せよ」,'Paenitete'
 skchr_phenxi_3,skchr,phenxi,3,“你须偿还”,「償還せよ」,'Reponite'
-skchr_philae_1,skchr,philae,1,灵河护佑,-,-
-skchr_philae_2,skchr,philae,2,冥河诅咒,-,-
+skchr_philae_1,skchr,philae,1,灵河护佑,霊河の加護,Blessing of the River of Life
+skchr_philae_2,skchr,philae,2,冥河诅咒,冥河の呪詛,Curse of the River of Death
 skchr_pianst_1,skchr,pianst,1,纷飞十指,超絶技巧,Fingerfertigkeit
 skchr_pianst_2,skchr,pianst,2,曲惊四座,万雷の喝采,Meisterwerk
 skchr_pinecn_1,skchr,pinecn,1,RMA长钉,RMAスパイク,RMA Spikes
@@ -551,6 +564,9 @@ skchr_reed2_3,skchr,reed2,3,生命火种,命の火種,Ember of Life
 skchr_rfalcn_2,skchr,rfalcn,2,醉刃乱舞,醉刃乱舞,Drunken Bladedance
 skchr_rfrost_1,skchr,rfrost,1,陷阱部署,トラップセット,Trap Deployment
 skchr_rfrost_2,skchr,rfrost,2,击倒猎物,リーサルパシュート,Incapacitated Prey
+skchr_rmixer_1,skchr,rmixer,1,铳骑主考官,-,-
+skchr_rmixer_2,skchr,rmixer,2,八臂电锯侠,-,-
+skchr_rmixer_3,skchr,rmixer,3,退休前布道,-,-
 skchr_robin_1,skchr,robin,1,束缚“夹子”,バインド「クリップ」,Binding 'Clip'
 skchr_robin_2,skchr,robin,2,弹射“夹子”,バースト「クリップ」,Launching 'Clip'
 skchr_robrta_1,skchr,robrta,1,叙拉古式上妆,シラクーザ式化粧術,Siracusan-Style Makeup
@@ -569,8 +585,8 @@ skchr_savage_1,skchr,savage,1,强力击·β型,強撃β,Power Strike β
 skchr_savage_2,skchr,savage,2,微差爆破,精密起爆,Precise Blast
 skchr_scave_2,skchr,scave,2,冲锋号令·攻击,突撃指令・攻撃,Command - Attack
 skchr_sddrag_2,skchr,sddrag,2,生灵火花,マナスパーク,Soul Spark
-skchr_sensi_1,skchr,sensi,1,单人份料理,-,-
-skchr_sensi_2,skchr,sensi,2,团体魔物大餐,-,-
+skchr_sensi_1,skchr,sensi,1,单人份料理,一人分の料理,A Meal For One
+skchr_sensi_2,skchr,sensi,2,团体魔物大餐,宴会用魔物料理,Monster Meals For Many
 skchr_serum_1,skchr,serum,1,专注力超载,過集中,Focus Overload
 skchr_serum_2,skchr,serum,2,传导蚀滞弹,神経蝕滞弾,Conductive Corrosive Blast
 skchr_sesa_2,skchr,sesa,2,延时震荡零件,ディレイドボンバー,Delayed Concussive Parts
@@ -586,9 +602,9 @@ skchr_shwaz_1,skchr,shwaz,1,强弩,強射,Charged Shot
 skchr_shwaz_2,skchr,shwaz,2,暮眼锐瞳,暮色の慧眼,Sharp Eye
 skchr_shwaz_3,skchr,shwaz,3,战术的终结,ターミネート,Final Tactics
 skchr_sidero_2,skchr,sidero,2,破浪回神,裂波奮迅,Restorative Surge
-skchr_siege2_1,skchr,siege2,1,重铸晖光,-,-
-skchr_siege2_2,skchr,siege2,2,进赴故土,-,-
-skchr_siege2_3,skchr,siege2,3,俱以我之名,-,-
+skchr_siege2_1,skchr,siege2,1,重铸晖光,栄光再鋳,Reforged Radiance
+skchr_siege2_2,skchr,siege2,2,进赴故土,故地への進撃,Homeward Bound
+skchr_siege2_3,skchr,siege2,3,俱以我之名,我が名において,And All Be In My Name
 skchr_siege_2,skchr,siege,2,跃空锤,スカイスマッシュ,Aerial Hammer
 skchr_siege_3,skchr,siege,3,碎颅击,スカルクラッシュ,Skull Breaker
 skchr_silent_2,skchr,silent,2,医疗无人机,医療ドローン,Medical Drone
@@ -648,8 +664,8 @@ skchr_tachak_1,skchr,tachak,1,燃烧榴弹,焼夷弾,Incendiary Grenade
 skchr_tachak_2,skchr,tachak,2,倾泻弹药,制圧射撃,Spray and Pray
 skchr_takila_1,skchr,takila,1,当机立断,即断即決,Decisive Action
 skchr_takila_2,skchr,takila,2,剑走偏锋,極刃奇襲,Esoteric Bladework
-skchr_talr_1,skchr,talr,1,量衣尺,-,-
-skchr_talr_2,skchr,talr,2,缝线缠身,-,-
+skchr_talr_1,skchr,talr,1,量衣尺,採寸用メジャー,Tailor's Measure
+skchr_talr_2,skchr,talr,2,缝线缠身,絡みつく縫い糸,Lockstitch
 skchr_tecno_1,skchr,tecno,1,关节锁定,-,-
 skchr_tecno_2,skchr,tecno,2,恣意挥洒,-,-
 skchr_texas2_1,skchr,texas2,1,细雨无声,ピオヴィッジネ,Silent Drizzle
@@ -696,9 +712,9 @@ skchr_vodfox_1,skchr,vodfox,1,病入膏肓,不治の呪い,Malediction
 skchr_vodfox_2,skchr,vodfox,2,诅咒娃娃,呪いの人形,Cursed Doll
 skchr_vrdant_1,skchr,vrdant,1,苍翠屏障,蒼翠の鎧,Verdant Barrier
 skchr_vrdant_2,skchr,vrdant,2,双刃毒藤,藤の毒刃,Double-edged Poison Ivy
-skchr_vulpis_1,skchr,vulpis,1,小施惩戒,-,-
-skchr_vulpis_2,skchr,vulpis,2,坠刃拷问,-,-
-skchr_vulpis_3,skchr,vulpis,3,隐狐之艺,-,-
+skchr_vulpis_1,skchr,vulpis,1,小施惩戒,お仕置き,Discreet Discipline
+skchr_vulpis_2,skchr,vulpis,2,坠刃拷问,鋭利な尋問,Damoclean Interrogation
+skchr_vulpis_3,skchr,vulpis,3,隐狐之艺,狐隠れの技,La Volpe Nascosta
 skchr_vvana_1,skchr,vvana,1,光影迅捷剑,光影穿つ剣,Blade of Fleeting Shadows
 skchr_vvana_2,skchr,vvana,2,烛燃影息,影払う燭火,Shadowed by Candlelight
 skchr_vvana_3,skchr,vvana,3,“明灭”,「明滅」,'Flicker'
@@ -714,9 +730,9 @@ skchr_whispr_1,skchr,whispr,1,定向诊断,対症療法,Oriented Diagnosis
 skchr_whispr_2,skchr,whispr,2,痛觉抑制,痛覚抑制,Pain Suppression
 skchr_whitew_1,skchr,whitew,1,日晷,影落とす時針,Sundial
 skchr_whitew_2,skchr,whitew,2,狼魂,狼魂,Wolf Spirit
-skchr_whitw2_1,skchr,whitw2,1,慵怠者悲鸣,-,-
-skchr_whitw2_2,skchr,whitw2,2,逐猎狂飙,-,-
-skchr_whitw2_3,skchr,whitw2,3,终幕·浩劫,-,-
+skchr_whitw2_1,skchr,whitw2,1,慵怠者悲鸣,怠け者の悲鳴,Lament of the Apathetic
+skchr_whitw2_2,skchr,whitw2,2,逐猎狂飙,狼たちの戯れ,Hurricane Chase
+skchr_whitw2_3,skchr,whitw2,3,终幕·浩劫,ディザストロ・フィナーレ,Finale: Catastrofe
 skchr_wildmn_1,skchr,wildmn,1,骑枪刺击,ラピッドランス,Stabbing Lance
 skchr_wildmn_2,skchr,wildmn,2,夹枪冲锋,ランスチャージ,Lance Charge
 skchr_windft_1,skchr,windft,1,此身为筑,この身で築かす,Machine Rapport
@@ -724,6 +740,8 @@ skchr_windft_2,skchr,windft,2,此身为源,この身を源とす,Energy Rapport
 skchr_wisdel_1,skchr,wisdel,1,定点清算,クリアランス,Localized Liquidation
 skchr_wisdel_2,skchr,wisdel,2,饱和复仇,オーバーレネゲード,Saturated Vengeance
 skchr_wisdel_3,skchr,wisdel,3,爆裂黎明,デイブレイクバースト,Explosive Dawn
+skchr_wscoot_1,skchr,wscoot,1,以攻为守,-,-
+skchr_wscoot_2,skchr,wscoot,2,招无虚发,-,-
 skchr_wulfen_1,skchr,wulfen,1,“驱兽专用”,-,-
 skchr_wulfen_2,skchr,wulfen,2,“顽石专用”,-,-
 skchr_wyvern_1,skchr,wyvern,1,冲锋号令·援军,突撃指令・援軍,Command - Reinforcement
@@ -752,9 +770,9 @@ skcom_assist_cost[3],skcom,assist,cost[3],支援号令·γ型,支援指令γ,Sup
 skcom_atk_up[1],skcom,atk,up[1],攻击力强化·α型,攻撃力強化α,ATK Up α
 skcom_atk_up[2],skcom,atk,up[2],攻击力强化·β型,攻撃力強化β,ATK Up β
 skcom_atk_up[3],skcom,atk,up[3],攻击力强化·γ型,攻撃力強化γ,ATK Up γ
-skcom_born_up[1],skcom,born,up[1],一击即退·α型,-,-
-skcom_born_up[2],skcom,born,up[2],一击即退·β型,-,-
-skcom_born_up[3],skcom,born,up[3],一击即退·γ型,-,-
+skcom_born_up[1],skcom,born,up[1],一击即退·α型,一撃離脱α,Hit and Run α
+skcom_born_up[2],skcom,born,up[2],一击即退·β型,一撃離脱β,Hit and Run β
+skcom_born_up[3],skcom,born,up[3],一击即退·γ型,一撃離脱γ,Hit and Run γ
 skcom_charge_cost[1],skcom,charge,cost[1],冲锋号令·α型,突撃指令α,Charge α
 skcom_charge_cost[2],skcom,charge,cost[2],冲锋号令·β型,突撃指令β,Charge β
 skcom_charge_cost[3],skcom,charge,cost[3],冲锋号令·γ型,突撃指令γ,Charge γ
@@ -775,105 +793,105 @@ skcom_quickattack[1],skcom,quickattack[1],-,迅捷打击·α型,迅速攻撃α,S
 skcom_quickattack[3],skcom,quickattack[3],-,迅捷打击·γ型,迅速攻撃γ,Swift Strike γ
 skcom_range_extend,skcom,range,extend,治疗范围强化,回復範囲強化,Healing Range Up
 skcom_withdraw,skcom,withdraw,-,自我销毁,自動消滅,Self-Destruct
-sktok_acarm000_1,sktok,acarm000,1,小盾,-,-
-sktok_acarm000_2,sktok,acarm000,2,小盾,-,-
-sktok_acarm001_1,sktok,acarm001,1,短剑,-,-
-sktok_acarm001_2,sktok,acarm001,2,短剑,-,-
-sktok_acarm002_1,sktok,acarm002,1,幸运币,-,-
-sktok_acarm002_2,sktok,acarm002,2,幸运币,-,-
-sktok_acarm003_1,sktok,acarm003,1,冰块,-,-
-sktok_acarm003_2,sktok,acarm003,2,冰块,-,-
-sktok_acarm004_1,sktok,acarm004,1,压缩饼干,-,-
-sktok_acarm004_2,sktok,acarm004,2,压缩饼干,-,-
-sktok_acarm005_1,sktok,acarm005,1,信标,-,-
-sktok_acarm005_2,sktok,acarm005,2,信标,-,-
-sktok_acarm006_1,sktok,acarm006,1,源岩匕首,-,-
-sktok_acarm006_2,sktok,acarm006,2,源岩匕首,-,-
-sktok_acarm007_1,sktok,acarm007,1,源石溶剂,-,-
-sktok_acarm007_2,sktok,acarm007,2,源石溶剂,-,-
-sktok_acarm008_1,sktok,acarm008,1,激光发射器,-,-
-sktok_acarm008_2,sktok,acarm008,2,激光发射器,-,-
-sktok_acarm009_1,sktok,acarm009,1,喀兰贸易文档,-,-
-sktok_acarm009_2,sktok,acarm009,2,喀兰贸易文档,-,-
-sktok_acarm010_1,sktok,acarm010,1,卡西米尔文档,-,-
-sktok_acarm010_2,sktok,acarm010,2,卡西米尔文档,-,-
-sktok_acarm011_1,sktok,acarm011,1,深海猎人文档,-,-
-sktok_acarm011_2,sktok,acarm011,2,深海猎人文档,-,-
-sktok_acarm012_1,sktok,acarm012,1,浓茶,-,-
-sktok_acarm012_2,sktok,acarm012,2,浓茶,-,-
-sktok_acarm013_1,sktok,acarm013,1,蜂鸣器,-,-
-sktok_acarm013_2,sktok,acarm013,2,蜂鸣器,-,-
-sktok_acarm014_1,sktok,acarm014,1,精打细算玩偶,-,-
-sktok_acarm014_2,sktok,acarm014,2,精打细算玩偶,-,-
-sktok_acarm015_1,sktok,acarm015,1,见钱眼开玩偶,-,-
-sktok_acarm015_2,sktok,acarm015,2,见钱眼开玩偶,-,-
-sktok_acarm016_1,sktok,acarm016,1,预备进阶许可,-,-
-sktok_acarm016_2,sktok,acarm016,2,预备进阶许可,-,-
-sktok_acarm017_1,sktok,acarm017,1,战场分析仪,-,-
-sktok_acarm017_2,sktok,acarm017,2,战场分析仪,-,-
-sktok_acarm018_1,sktok,acarm018,1,震撼弹,-,-
-sktok_acarm018_2,sktok,acarm018,2,震撼弹,-,-
-sktok_acarm019_1,sktok,acarm019,1,制式重装盾,-,-
-sktok_acarm019_2,sktok,acarm019,2,制式重装盾,-,-
-sktok_acarm020_1,sktok,acarm020,1,制式狙击镜,-,-
-sktok_acarm020_2,sktok,acarm020,2,制式狙击镜,-,-
-sktok_acarm021_1,sktok,acarm021,1,制式术师杖,-,-
-sktok_acarm021_2,sktok,acarm021,2,制式术师杖,-,-
-sktok_acarm022_1,sktok,acarm022,1,口袋法阵,-,-
-sktok_acarm022_2,sktok,acarm022,2,口袋法阵,-,-
-sktok_acarm023_1,sktok,acarm023,1,竞技投币机,-,-
-sktok_acarm023_2,sktok,acarm023,2,竞技投币机,-,-
-sktok_acarm024_1,sktok,acarm024,1,工匠锤,-,-
-sktok_acarm024_2,sktok,acarm024,2,工匠锤,-,-
-sktok_acarm025_1,sktok,acarm025,1,休眠子裔,-,-
-sktok_acarm025_2,sktok,acarm025,2,休眠子裔,-,-
-sktok_acarm026_1,sktok,acarm026,1,术师无人机,-,-
-sktok_acarm026_2,sktok,acarm026,2,术师无人机,-,-
-sktok_acarm027_1,sktok,acarm027,1,卡西米尔模型,-,-
-sktok_acarm027_2,sktok,acarm027,2,卡西米尔模型,-,-
-sktok_acarm028_1,sktok,acarm028,1,喀兰贸易模型,-,-
-sktok_acarm028_2,sktok,acarm028,2,喀兰贸易模型,-,-
-sktok_acarm029_1,sktok,acarm029,1,深海猎人模型,-,-
-sktok_acarm029_2,sktok,acarm029,2,深海猎人模型,-,-
-sktok_acarm030_1,sktok,acarm030,1,精英重装套组,-,-
-sktok_acarm030_2,sktok,acarm030,2,精英重装套组,-,-
-sktok_acarm031_1,sktok,acarm031,1,精英狙击套组,-,-
-sktok_acarm031_2,sktok,acarm031,2,精英狙击套组,-,-
-sktok_acarm032_1,sktok,acarm032,1,精英术师套组,-,-
-sktok_acarm032_2,sktok,acarm032,2,精英术师套组,-,-
-sktok_acarm033_1,sktok,acarm033,1,歌利亚头盔,-,-
-sktok_acarm033_2,sktok,acarm033,2,歌利亚头盔,-,-
-sktok_acarm034_1,sktok,acarm034,1,M3护甲,-,-
-sktok_acarm034_2,sktok,acarm034,2,M3护甲,-,-
-sktok_acarm035_1,sktok,acarm035,1,M3利爪,-,-
-sktok_acarm035_2,sktok,acarm035,2,M3利爪,-,-
-sktok_acarm036_1,sktok,acarm036,1,便携弹射器,-,-
-sktok_acarm036_2,sktok,acarm036,2,便携弹射器,-,-
-sktok_acarm037_1,sktok,acarm037,1,有限加速器,-,-
-sktok_acarm037_2,sktok,acarm037,2,有限加速器,-,-
-sktok_acarm038_1,sktok,acarm038,1,全能机械臂,-,-
-sktok_acarm038_2,sktok,acarm038,2,全能机械臂,-,-
-sktok_acarm039_1,sktok,acarm039,1,博士投影,-,-
-sktok_acarm039_2,sktok,acarm039,2,博士投影,-,-
-sktok_acshopfr_1,sktok,acshopfr,1,补给留存,-,-
-sktok_acshopre_1,sktok,acshopre,1,补给调配,-,-
-sktok_acshopup_1,sktok,acshopup,1,补给升级,-,-
-sktok_acspell001_1,sktok,acspell001,1,法术：恢复,-,-
-sktok_acspell002_1,sktok,acspell002,1,法术：力量,-,-
-sktok_acspell003_1,sktok,acspell003,1,法术：传动,-,-
-sktok_acspell004_1,sktok,acspell004,1,法术：贪婪,-,-
-sktok_acspell005_1,sktok,acspell005,1,法术：满足,-,-
-sktok_acspell006_1,sktok,acspell006,1,法术：护盾,-,-
-sktok_acspell007_1,sktok,acspell007,1,法术：榜样,-,-
-sktok_acspell008_1,sktok,acspell008,1,法术：屏障,-,-
-sktok_acspell009_1,sktok,acspell009,1,法术：熟人,-,-
-sktok_acspell010_1,sktok,acspell010,1,法术：同行,-,-
-sktok_acspell011_1,sktok,acspell011,1,法术：提升,-,-
-sktok_acspell012_1,sktok,acspell012,1,法术：迟缓,-,-
-sktok_acspell014_1,sktok,acspell014,1,法术：全力,-,-
-sktok_acspell015_1,sktok,acspell015,1,法术：血税,-,-
-sktok_acspell016_1,sktok,acspell016,1,法术：破袭,-,-
-sktok_acspell017_1,sktok,acspell017,1,晋升调配特许,-,-
+sktok_acarm000_1,sktok,acarm000,1,小盾,小盾,Small Shield
+sktok_acarm000_2,sktok,acarm000,2,小盾,小盾,Small Shield
+sktok_acarm001_1,sktok,acarm001,1,短剑,短剣,Dirk
+sktok_acarm001_2,sktok,acarm001,2,短剑,短剣,Dirk
+sktok_acarm002_1,sktok,acarm002,1,幸运币,ラッキーコイン,Lucky Coin
+sktok_acarm002_2,sktok,acarm002,2,幸运币,ラッキーコイン,Lucky Coin
+sktok_acarm003_1,sktok,acarm003,1,冰块,氷,Chunk of Ice
+sktok_acarm003_2,sktok,acarm003,2,冰块,氷,Chunk of Ice
+sktok_acarm004_1,sktok,acarm004,1,压缩饼干,レーション,Hardtack
+sktok_acarm004_2,sktok,acarm004,2,压缩饼干,レーション,Hardtack
+sktok_acarm005_1,sktok,acarm005,1,信标,ビーコン,Transmitter
+sktok_acarm005_2,sktok,acarm005,2,信标,ビーコン,Transmitter
+sktok_acarm006_1,sktok,acarm006,1,源岩匕首,源岩ナイフ,Orirock Dagger
+sktok_acarm006_2,sktok,acarm006,2,源岩匕首,源岩ナイフ,Orirock Dagger
+sktok_acarm007_1,sktok,acarm007,1,源石溶剂,源石溶剤,Originium Solvent
+sktok_acarm007_2,sktok,acarm007,2,源石溶剂,源石溶剤,Originium Solvent
+sktok_acarm008_1,sktok,acarm008,1,激光发射器,レーザー発射機,Laser Sighter
+sktok_acarm008_2,sktok,acarm008,2,激光发射器,レーザー発射機,Laser Sighter
+sktok_acarm009_1,sktok,acarm009,1,喀兰贸易文档,カランド貿易ファイル,Karlan Trade File
+sktok_acarm009_2,sktok,acarm009,2,喀兰贸易文档,カランド貿易ファイル,Karlan Trade File
+sktok_acarm010_1,sktok,acarm010,1,卡西米尔文档,カジミエーシュファイル,Kazimierz File
+sktok_acarm010_2,sktok,acarm010,2,卡西米尔文档,カジミエーシュファイル,Kazimierz File
+sktok_acarm011_1,sktok,acarm011,1,深海猎人文档,アビサルハンターファイル,Abyssal Hunter File
+sktok_acarm011_2,sktok,acarm011,2,深海猎人文档,アビサルハンターファイル,Abyssal Hunter File
+sktok_acarm012_1,sktok,acarm012,1,浓茶,渋茶,Strong Tea
+sktok_acarm012_2,sktok,acarm012,2,浓茶,渋茶,Strong Tea
+sktok_acarm013_1,sktok,acarm013,1,蜂鸣器,警報器,Buzzer
+sktok_acarm013_2,sktok,acarm013,2,蜂鸣器,警報器,Buzzer
+sktok_acarm014_1,sktok,acarm014,1,精打细算玩偶,倹約家の人形,Budget-Savvy Doll
+sktok_acarm014_2,sktok,acarm014,2,精打细算玩偶,倹約家の人形,Budget-Savvy Doll
+sktok_acarm015_1,sktok,acarm015,1,见钱眼开玩偶,守銭奴の人形,Money-Grubbing Doll
+sktok_acarm015_2,sktok,acarm015,2,见钱眼开玩偶,守銭奴の人形,Money-Grubbing Doll
+sktok_acarm016_1,sktok,acarm016,1,预备进阶许可,予備隊員昇進許可,Promotion Permit
+sktok_acarm016_2,sktok,acarm016,2,预备进阶许可,予備隊員昇進許可,Promotion Permit
+sktok_acarm017_1,sktok,acarm017,1,战场分析仪,戦場分析装置,Battlefield Analyzer
+sktok_acarm017_2,sktok,acarm017,2,战场分析仪,戦場分析装置,Battlefield Analyzer
+sktok_acarm018_1,sktok,acarm018,1,震撼弹,スタングレネード,Stun Grenade
+sktok_acarm018_2,sktok,acarm018,2,震撼弹,スタングレネード,Stun Grenade
+sktok_acarm019_1,sktok,acarm019,1,制式重装盾,制式重装シールド,Standard Defender Shield
+sktok_acarm019_2,sktok,acarm019,2,制式重装盾,制式重装シールド,Standard Defender Shield
+sktok_acarm020_1,sktok,acarm020,1,制式狙击镜,制式狙撃ゴーグル,Standard Sniper Scope
+sktok_acarm020_2,sktok,acarm020,2,制式狙击镜,制式狙撃ゴーグル,Standard Sniper Scope
+sktok_acarm021_1,sktok,acarm021,1,制式术师杖,制式術師ロッド,Standard Caster Wand
+sktok_acarm021_2,sktok,acarm021,2,制式术师杖,制式術師ロッド,Standard Caster Wand
+sktok_acarm022_1,sktok,acarm022,1,口袋法阵,携帯式アーツバリア,Pocket Arts Circle
+sktok_acarm022_2,sktok,acarm022,2,口袋法阵,携帯式アーツバリア,Pocket Arts Circle
+sktok_acarm023_1,sktok,acarm023,1,竞技投币机,競技アーケードマシン,Coin-Operated Machine
+sktok_acarm023_2,sktok,acarm023,2,竞技投币机,競技アーケードマシン,Coin-Operated Machine
+sktok_acarm024_1,sktok,acarm024,1,工匠锤,職人のハンマー,Engineer's Hammer
+sktok_acarm024_2,sktok,acarm024,2,工匠锤,職人のハンマー,Engineer's Hammer
+sktok_acarm025_1,sktok,acarm025,1,休眠子裔,眠れる眷属,Dormant Heir
+sktok_acarm025_2,sktok,acarm025,2,休眠子裔,眠れる眷属,Dormant Heir
+sktok_acarm026_1,sktok,acarm026,1,术师无人机,術師ドローン,Caster Drone
+sktok_acarm026_2,sktok,acarm026,2,术师无人机,術師ドローン,Caster Drone
+sktok_acarm027_1,sktok,acarm027,1,卡西米尔模型,カジミエーシュのオブジェ,Kazimierz Model
+sktok_acarm027_2,sktok,acarm027,2,卡西米尔模型,カジミエーシュのオブジェ,Kazimierz Model
+sktok_acarm028_1,sktok,acarm028,1,喀兰贸易模型,カランド貿易のオブジェ,Karlan Trade Model
+sktok_acarm028_2,sktok,acarm028,2,喀兰贸易模型,カランド貿易のオブジェ,Karlan Trade Model
+sktok_acarm029_1,sktok,acarm029,1,深海猎人模型,アビサルハンターのオブジェ,Abyssal Hunter Model
+sktok_acarm029_2,sktok,acarm029,2,深海猎人模型,アビサルハンターのオブジェ,Abyssal Hunter Model
+sktok_acarm030_1,sktok,acarm030,1,精英重装套组,エリート重装セット,Elite Defender Set
+sktok_acarm030_2,sktok,acarm030,2,精英重装套组,エリート重装セット,Elite Defender Set
+sktok_acarm031_1,sktok,acarm031,1,精英狙击套组,エリート狙撃セット,Elite Sniper Set
+sktok_acarm031_2,sktok,acarm031,2,精英狙击套组,エリート狙撃セット,Elite Sniper Set
+sktok_acarm032_1,sktok,acarm032,1,精英术师套组,エリート術師セット,Elite Caster Set
+sktok_acarm032_2,sktok,acarm032,2,精英术师套组,エリート術師セット,Elite Caster Set
+sktok_acarm033_1,sktok,acarm033,1,歌利亚头盔,ゴリアテの兜,Goliath Helmet
+sktok_acarm033_2,sktok,acarm033,2,歌利亚头盔,ゴリアテの兜,Goliath Helmet
+sktok_acarm034_1,sktok,acarm034,1,M3护甲,M3アーマー,M3 Armor
+sktok_acarm034_2,sktok,acarm034,2,M3护甲,M3アーマー,M3 Armor
+sktok_acarm035_1,sktok,acarm035,1,M3利爪,M3クロー,M3 Claw
+sktok_acarm035_2,sktok,acarm035,2,M3利爪,M3クロー,M3 Claw
+sktok_acarm036_1,sktok,acarm036,1,便携弹射器,携帯式射出装置,Portable Launcher
+sktok_acarm036_2,sktok,acarm036,2,便携弹射器,携帯式射出装置,Portable Launcher
+sktok_acarm037_1,sktok,acarm037,1,有限加速器,有限加速マシン,Miniature Accelerator
+sktok_acarm037_2,sktok,acarm037,2,有限加速器,有限加速マシン,Miniature Accelerator
+sktok_acarm038_1,sktok,acarm038,1,全能机械臂,万能ロボットアーム,Multi-Purpose Robotic Arm
+sktok_acarm038_2,sktok,acarm038,2,全能机械臂,万能ロボットアーム,Multi-Purpose Robotic Arm
+sktok_acarm039_1,sktok,acarm039,1,博士投影,ドクターのホログラム,Doctor Hologram
+sktok_acarm039_2,sktok,acarm039,2,博士投影,ドクターのホログラム,Doctor Hologram
+sktok_acshopfr_1,sktok,acshopfr,1,补给留存,補給凍結,Supply Retention
+sktok_acshopre_1,sktok,acshopre,1,补给调配,補給調達,Supply Distribution
+sktok_acshopup_1,sktok,acshopup,1,补给升级,補給強化,Supply Upgrade
+sktok_acspell001_1,sktok,acspell001,1,法术：恢复,アーツ：治療,Arts: Recovery
+sktok_acspell002_1,sktok,acspell002,1,法术：力量,アーツ：剛力,Arts: Strength
+sktok_acspell003_1,sktok,acspell003,1,法术：传动,アーツ：伝動,Arts: Transmission
+sktok_acspell004_1,sktok,acspell004,1,法术：贪婪,アーツ：貪欲,Arts: Greed
+sktok_acspell005_1,sktok,acspell005,1,法术：满足,アーツ：充足,Arts: Satisfaction
+sktok_acspell006_1,sktok,acspell006,1,法术：护盾,アーツ：防壁,Arts: Shield
+sktok_acspell007_1,sktok,acspell007,1,法术：榜样,アーツ：昇進,Arts: Role Model
+sktok_acspell008_1,sktok,acspell008,1,法术：屏障,アーツ：護身,Arts: Barrier
+sktok_acspell009_1,sktok,acspell009,1,法术：熟人,アーツ：伝心,Arts: Familiar Face
+sktok_acspell010_1,sktok,acspell010,1,法术：同行,アーツ：同行,Arts: Peer
+sktok_acspell011_1,sktok,acspell011,1,法术：提升,アーツ：向上,Arts: Boost
+sktok_acspell012_1,sktok,acspell012,1,法术：迟缓,アーツ：緩速,Arts: Slow
+sktok_acspell014_1,sktok,acspell014,1,法术：全力,アーツ：全力,Arts: All-Out
+sktok_acspell015_1,sktok,acspell015,1,法术：血税,アーツ：血税,Arts: Blood Tax
+sktok_acspell016_1,sktok,acspell016,1,法术：破袭,アーツ：奇兵,Arts: Infiltration
+sktok_acspell017_1,sktok,acspell017,1,晋升调配特许,昇進配分許可証,Advanced Deployment Permit
 sktok_ads,sktok,ads,-,掩护,援護,Cover
 sktok_aegiret_1,sktok,aegiret,1,信标激活,ビーコン起動,Activate Beacon
 sktok_aidkit,sktok,aidkit,-,急救,応急処置,First Aid
@@ -883,6 +901,9 @@ sktok_allady,sktok,allady,-,阿勒黛的卫护,アラデルの衛護,Allerdale's
 sktok_allady_2,sktok,allady,2,阿勒黛的卫护,アラデルの衛護,Allerdale's Guard
 sktok_allydonq,sktok,allydonq,-,冲锋,突貫,Charge
 sktok_amblls,sktok,amblls,-,幽影门扉,幽影の扉,Umbral Door
+sktok_angel2_target_1,sktok,angel2,target_1,天空大扫除,-,-
+sktok_angel2_target_2,sktok,angel2,target_2,开火成瘾症,-,-
+sktok_angel2_target_3,sktok,angel2,target_3,使命必达！,-,-
 sktok_antidr,sktok,antidr,-,无人机干扰,ドローン妨害,Drone Interference
 sktok_arcexpd,sktok,arcexpd,-,帮个小忙,-,-
 sktok_arcgacha,sktok,arcgacha,-,扭动机关,-,-
@@ -932,8 +953,8 @@ sktok_cannon_1,sktok,cannon,1,脉冲束流,衝撃集束波,Pulse Beam
 sktok_cannon_2,sktok,cannon,2,脉冲束流,衝撃集束波,Pulse Beam
 sktok_canoe_1,sktok,canoe,1,放置平台,ボード設置,Deployment Platform
 sktok_canoe_2,sktok,canoe,2,放置平台,ボード設置,Deployment Platform
-sktok_cathy_catsld_1,sktok,cathy,catsld_1,岁月锻打,-,-
-sktok_cathy_catsld_2,sktok,cathy,catsld_2,战火淬炼,-,-
+sktok_cathy_catsld_1,sktok,cathy,catsld_1,岁月锻打,歳月による鍛造,Wrought by Age
+sktok_cathy_catsld_2,sktok,cathy,catsld_2,战火淬炼,戦火の焼き入れ,Tempered by War
 sktok_cd1punch,sktok,cd1punch,-,灌录,レコード,Record
 sktok_cd1puncha,sktok,cd1puncha,-,灌录,レコード,Record
 sktok_cd1punchb,sktok,cd1punchb,-,灌录,レコード,Record
@@ -974,7 +995,7 @@ sktok_cdshieldb,sktok,cdshieldb,-,镀膜,コーティング,Coating
 sktok_cjbtow_1,sktok,cjbtow,1,灶火灭,-,-
 sktok_cjgtow_1,sktok,cjgtow,1,灶火起,-,-
 sktok_cnnon,sktok,cnnon,-,吃盐坨子吧！,-,-
-sktok_cnvfwks,sktok,cnvfwks,-,“狂欢时刻！”,-,-
+sktok_cnvfwks,sktok,cnvfwks,-,“狂欢时刻！”,「狂宴の刻！」,'Carnevale Time!'
 sktok_condtr,sktok,condtr,-,广域调谐,﻿広域調律,Area Tuning
 sktok_cqbw_token,sktok,cqbw,token,受害者启动模式,バッドラックXD,Victim Seeker
 sktok_crate,sktok,crate,-,阻挡路线,進路妨害,Obstruct
@@ -992,6 +1013,10 @@ sktok_doroth_1,sktok,doroth,1,危险目标清除,脅威排除,Dangerous Entity R
 sktok_doroth_2,sktok,doroth,2,流沙区域生成,流砂生成,Quicksand Generation
 sktok_doroth_3,sktok,doroth,3,高速共振排障,高周波共振,High-speed Resonating Troubleshooter
 sktok_dplant,sktok,dplant,-,抑制生长,成長抑制,Suppress Growth
+sktok_dqballis,sktok,dqballis,-,发射弩箭,-,-
+sktok_dqcrsbow,sktok,dqcrsbow,-,清债程序,-,-
+sktok_dqelec,sktok,dqelec,-,通电！,-,-
+sktok_dqore,sktok,dqore,-,脉冲波,-,-
 sktok_dsbell,sktok,dsbell,-,应急治疗协议,応急治療プロトコル,Emergency Medical Agreement
 sktok_dsshell,sktok,dsshell,-,赘生甲壳,増殖甲羅,Excrescent Carapace
 sktok_dstnta,sktok,dstnta,-,摄食,摂食,Devour
@@ -1038,6 +1063,7 @@ sktok_gractrl,sktok,gractrl,-,重力生成,重力生成,Gravity Generation
 sktok_gtreasure,sktok,gtreasure,-,可被击破,撃破可能,Destructible
 sktok_gunctrl,sktok,gunctrl,-,开火,発射,Open Fire
 sktok_hiddenstone,sktok,hiddenstone,-,可被击破,撃破可能,Destructible
+sktok_hlnpcb_1,sktok,hlnpcb,1,苏醒,-,-
 sktok_inverter,sktok,inverter,-,撼动现实,事象震動,Warping Reality
 sktok_ironmn_pile1,sktok,ironmn,pile1,极致火力,ハイパーブースト,Extreme Firepower
 sktok_ironmn_pile2,sktok,ironmn,pile2,高效补给,供給効率化システム,Efficient Resupply
@@ -1079,15 +1105,31 @@ sktok_mitm_trshrb_2,sktok,mitm,trshrb_2,废品战车,ガラクタの戦車,Scrap
 sktok_mlyss_wtrman_1,sktok,mlyss,wtrman_1,流形,うつろう水影,Flowing Shape
 sktok_mlyss_wtrman_2,sktok,mlyss,wtrman_2,流形,うつろう水影,Flowing Shape
 sktok_mlyss_wtrman_3,sktok,mlyss,wtrman_3,流形,うつろう水影,Flowing Shape
+sktok_monstr_prosts1,sktok,monstr,prosts1,策略：超压链接,-,-
+sktok_monstr_prosts2,sktok,monstr,prosts2,策略：超负荷,-,-
+sktok_monstr_prosts3,sktok,monstr,prosts3,策略：熔毁,-,-
 sktok_motter_1,sktok,motter,1,迷惑装置,攪乱装置,Bionic Device
 sktok_motter_2,sktok,motter,2,爆破回收,ミーボ起爆,Detonate and Recycle
 sktok_mound,sktok,mound,-,风沙掩体,防風壁,Sandstorm Protection
+sktok_mptxs_1,sktok,mptxs,1,挥砍,-,-
+sktok_mpweak_1,sktok,mpweak,1,弱化,-,-
 sktok_muctrl,sktok,muctrl,-,促融共竞控制,協心競技制御装置,Icebreaker Games Control
+sktok_mufrbk,sktok,mufrbk,-,临时休息舱,-,-
+sktok_mufrbs,sktok,mufrbs,-,便携健身架,-,-
+sktok_mufrfm,sktok,mufrfm,-,建筑工具间,-,-
+sktok_mufrprn_1,sktok,mufrprn,1,救命啊！,-,-
+sktok_mufrst,sktok,mufrst,-,混凝土路障,-,-
+sktok_mufrwl,sktok,mufrwl,-,液压式高台,-,-
 sktok_muftbl,sktok,muftbl,-,重新发球！,キックオフ！,Kickoff!
 sktok_muruinb,sktok,muruinb,-,后勤维护,支援所展開,Logistical Maintenance
 sktok_muruinf,sktok,muruinf,-,维护员,整備士,Maintainer
 sktok_muruino,sktok,muruino,-,器械维护,防壁展開,Equipment Maintenance
 sktok_muruinw,sktok,muruinw,-,模块维护,高台展開,Module Maintenance
+sktok_muulas_1,sktok,muulas,1,看！烟花！,-,-
+sktok_muulcl_1,sktok,muulcl,1,都给我喝！,-,-
+sktok_muulco_1,sktok,muulco,1,加油哦！,-,-
+sktok_muulrg_1,sktok,muulrg,1,咪嗷嗷嗷嗷！,-,-
+sktok_muulwr_1,sktok,muulwr,1,请穿上护具！,-,-
 sktok_nearl2_3,sktok,nearl2,3,“耀阳”,「ブレイジング・サン」,'Blazing Sun'
 sktok_necras_skeltn_1,sktok,necras,skeltn_1,怨火缠身,-,-
 sktok_necras_skeltn_2,sktok,necras,skeltn_2,怨火缠身,-,-
@@ -1171,6 +1213,9 @@ sktok_stone,sktok,stone,-,阻挡路线,進路妨害,Obstruct
 sktok_storm,sktok,storm,-,沙尘暴,砂嵐,Sandstorm
 sktok_streasure,sktok,streasure,-,宝刺伤人,危険な棘,Dangerous Spike
 sktok_supplycard,sktok,supplycard,-,新遣,派遣,Dispatch
+sktok_supspt,sktok,supspt,-,天工夜行,-,-
+sktok_supspta,sktok,supspta,-,天工夜行,-,-
+sktok_supsptb,sktok,supsptb,-,天工夜行,-,-
 sktok_swire2_gdtrap,sktok,swire2,gdtrap,“见面礼”,「おもてなし」,'Courtesy Gift'
 sktok_tbattbc,sktok,tbattbc,-,钳兽壳粉,鉗獣殻パウダー,Gloompincer Shell Meal
 sktok_tbpsnc,sktok,tbpsnc,-,高效泡打粉,ベーキングパウダー,High-Efficiency Baking Powder
@@ -1189,10 +1234,10 @@ sktok_tooltree,sktok,tooltree,-,天然隐蔽,きのこガード,Natural Camoufla
 sktok_tower,sktok,tower,-,法术传输协议,アーツ転送プロトコル,Arts Transfer Protocol
 sktok_trademan_1,sktok,trademan,1,触发对话,会話発生,Trigger Dialogue
 sktok_trademan_summon,sktok,trademan,summon,触发对话,会話発生,Trigger Dialogue
-sktok_trbox_1,sktok,trbox,1,开箱！,-,-
+sktok_trbox_1,sktok,trbox,1,开箱！,中身はなにかな？,Open It Up!
 sktok_tree,sktok,tree,-,天然隐蔽,きのこガード,Natural Camouflage
-sktok_trpot_1,sktok,trpot,1,开饭！,-,-
-sktok_trrbox_1,sktok,trrbox,1,开箱！,-,-
+sktok_trpot_1,sktok,trpot,1,开饭！,飯の時間だ！,Food's Ready!
+sktok_trrbox_1,sktok,trrbox,1,开箱！,中身はなにかな？,Open It Up!
 sktok_trsrhuntr,sktok,trsrhuntr,-,触发对话,会話発生,Trigger Dialogue
 sktok_trsrhuntr_1,sktok,trsrhuntr,1,触发对话,会話発生,Trigger Dialogue
 sktok_truamr,sktok,truamr,-,“甜蜜狂搅”,「スイート・スーパーブレンド」,'Supersweetie Superblend'
@@ -1204,7 +1249,7 @@ sktok_vigil_wolf_1,sktok,vigil,wolf_1,狼群,群狼,Wolfpack
 sktok_vigil_wolf_2,sktok,vigil,wolf_2,狼群,群狼,Wolfpack
 sktok_vigil_wolf_3,sktok,vigil,wolf_3,狼群,群狼,Wolfpack
 sktok_vodfox_token,sktok,vodfox,token,诅咒娃娃,呪いの人形,Cursed Doll
-sktok_vtarsn,sktok,vtarsn,-,军工厂生产！,-,-
+sktok_vtarsn,sktok,vtarsn,-,军工厂生产！,生産開始！,Arms Factory Is A-Go!
 sktok_vultres,sktok,vultres,-,诱人珍宝,財宝のいざない,Alluring Treasures
 sktok_wdescp,sktok,wdescp,-,建立通讯,通信確立,Establish Communication
 sktok_wdfarm,sktok,wdfarm,-,补给,補給,Resupply
