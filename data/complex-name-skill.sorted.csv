@@ -286,7 +286,7 @@ char_1037_amiya3,1037,amiya3,医疗,阿米娅(医疗),amiya(yiliao),amy(yl),Amiy
 char_1038_whitw2,1038,whitw2,术师,荒芜拉普兰德,huangwulapulande,hwlpld,Lappland the Decadenza,SR04,6,鲁珀,慵怠者悲鸣,逐猎狂飙,终幕·浩劫
 char_1039_thorn2,1039,thorn2,特种,引星棘刺,yinxingjici,yxjc,Thorns the Lodestar,II02,6,阿戈尔,度算浪波,解构涌潮,“我的海疆”
 char_1040_blaze2,1040,blaze2,术师,烛煌,zhuhuang,zh,Blaze the Igniting Spark,REX1,6,菲林,炙手之援,沸血燎原,众恶的焚场
-char_1041_angel2,1041,angel2,特种,新约能天使,xinyaonengtianshi,xynts,Exusiai the New Covenant,PL08,6,萨科塔,天空大扫除,开火成瘾症,使命必达！
+char_1041_angel2,1041,angel2,特种,新约能天使,xinyuenengtianshi,xynts,Exusiai the New Covenant,PL08,6,萨科塔,天空大扫除,开火成瘾症,使命必达！
 char_1502_crosly,1502,crosly,特种,弑君者,shijunzhe,sjz,Crownslayer,R315,6,瑞柏巴,尘烟蔽目,硝烟震爆,烽烟行刑场
 char_1505_frstar,1505,frstar,N/A,霜星,shuangxing,sx,N/A,N/A,N/A,N/A,,,
 char_2012_typhon,2012,typhon,狙击,提丰,tifeng,tf,Typhon,SI07,6,萨卡兹,迅捷打击·γ型,冰原秩序,“永恒狩猎”
@@ -398,5 +398,5 @@ char_4178_alanna,4178,alanna,辅助,阿兰娜,alanna,aln,Alanna,RB17,5,萨弗拉
 char_4179_monstr,4179,monstr,医疗,Mon3tr,Mon3tr,Mon3tr,Mon3tr,R003,6,未公开,策略：超压链接,策略：超负荷,策略：熔毁
 char_4187_graceb,4187,graceb,近卫,聆音,lingyin,ly,Gracebearer,BV27,5,未公开,开颅挽歌,破膛弥撒,
 char_4188_confes,4188,confes,先锋,CONFESS-47,CONFESS-47,CONFESS-47,CONFESS-47,LT47,1,,,,
-char_4193_lemuen,4193,lemuen,狙击,蕾缪安,leimouan,lma,Lemuen,LT17,6,萨科塔,重逢问候,归乡邀约,礼炮·强制追思
+char_4193_lemuen,4193,lemuen,狙击,蕾缪安,leimiuan,lma,Lemuen,LT17,6,萨科塔,重逢问候,归乡邀约,礼炮·强制追思
 char_4194_rmixer,4194,rmixer,重装,信仰搅拌机,xinyangjiaobanji,xyjbj,Sankta Miksaparato,LT32,6,萨科塔,铳骑主考官,八臂电锯侠,退休前布道
