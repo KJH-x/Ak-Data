@@ -4,36 +4,9 @@ char_003_kalts,003,kalts,医疗,凯尔希,kaierxi,kex,Kal'tsit,B003,6,菲林,指
 char_009_12fce,009,12fce,术师,12F,12F,12F,12F,R303,2,萨弗拉,,,
 char_010_chen,010,chen,近卫,陈,chen,c,Ch'en,LM04,6,龙,鞘击,赤霄·拔刀,赤霄·绝影
 char_017_huang,017,huang,近卫,煌,huang,h,Blaze,RE41,6,菲林,强力击·γ型,链锯延伸模块,沸腾爆裂
-char_1001_amiya2,1001,amiya2,近卫,阿米娅(近卫),amiya(jinwei),amy(jw),Amiya,R001,5,卡特斯/奇美拉,影霄·奔夜,影霄·绝影,
 char_101_sora,101,sora,辅助,空,kong,k,Sora,PL05,5,因经纪公司要求不公开,睡眠之歌,战斗之歌,
-char_1011_lava2,1011,lava2,术师,炎狱炎熔,yanyuyanrong,yyyr,Lava the Purgatory,RF01,5,萨卡兹,焰淬匕首,狱火之环,
-char_1012_skadi2,1012,skadi2,辅助,浊心斯卡蒂,zhuoxinsikadi,zxskd,Skadi the Corrupting Heart,CR01,6,未公开,同归殊途之吟,同葬无光之愿,"""潮涌，潮枯"""
-char_1013_chen2,1013,chen2,狙击,假日威龙陈,jiariweilongchen,jrwlc,Ch'en the Holungday,R112,6,龙,高压冲击,“堇青之夜”,“假日风暴”
-char_1014_nearl2,1014,nearl2,近卫,耀骑士临光,yaoqishilinguang,yqslg,Nearl the Radiant Knight,KZ01,6,库兰塔,灿焰长刃,逐夜烁光,耀阳颔首
-char_1016_agoat2,1016,agoat2,医疗,纯烬艾雅法拉,chunjinaiyafala,cjayfl,Eyjafjalla the Hvít Aska,LN10,6,卡普里尼,无声润物,云霭荫佑,火山回响
-char_1019_siege2,1019,siege2,近卫,维娜·维多利亚,weina·weiduoliya,wn·wdly,Vina Victoria,VC00,6,阿斯兰,重铸晖光,进赴故土,俱以我之名
 char_102_texas,102,texas,先锋,德克萨斯,dekesasi,dkss,Texas,PL02,5,鲁珀,冲锋号令·γ型,剑雨,
-char_1020_reed2,1020,reed2,医疗,焰影苇草,yanyingweicao,yywc,Reed The Flame Shadow,DB02,6,德拉克,迅捷打击·γ型,枯荣共息,生命火种
-char_1021_kroos2,1021,kroos2,狙击,寒芒克洛丝,hanmangkeluosi,hmkls,Kroos the Keen Glint,RF02,5,卡特斯,无痕,封喉,
-char_1023_ghost2,1023,ghost2,特种,归溟幽灵鲨,guimingyoulingsha,gmyls,Specter the Unchained,CR02,6,阿戈尔,生存的技巧,生存的渴望,生存的重压
-char_1024_hbisc2,1024,hbisc2,医疗,濯尘芙蓉,zhuochenfurong,zcfr,Hibiscus the Purifier,RF03,5,萨卡兹,攻击力强化·γ型,抚业之触,
-char_1026_gvial2,1026,gvial2,近卫,百炼嘉维尔,bailianjiaweier,bljwe,Gavial the Invincible,RF22,6,阿达克利斯,精准痛击,链锯强袭,丛林之魂
-char_1027_greyy2,1027,greyy2,狙击,承曦格雷伊,chengxigeleiyi,cxgly,Greyy the Lightningbearer,RF23,5,佩洛,迅捷打击·γ型,晨曦信标,
-char_1028_texas2,1028,texas2,特种,缄默德克萨斯,jianmodekesasi,jmdkss,Texas the Omertosa,PL07,6,鲁珀,细雨无声,阵雨连绵,剑雨滂沱
-char_1029_yato2,1029,yato2,特种,麒麟R夜刀,qilinRyedao,qlRyd,Kirin R Yato,MH02,6,鬼,鬼人化,乱舞,空中回旋乱舞
 char_103_angel,103,angel,狙击,能天使,nengtianshi,nts,Exusiai,PL03,6,萨科塔,冲锋模式,扫射模式,过载模式
-char_1030_noirc2,1030,noirc2,近卫,火龙S黑角,huolongSheijiao,hlShj,Rathalos S Noir Corne,MH03,5,鬼,居合拔刀气刃斩,气刃兜割,
-char_1031_slent2,1031,slent2,辅助,淬羽赫默,cuiyuhemo,cyhm,Silence the Paradigmatic,RL10,6,黎博利,进取之心,俯瞰视界,无畏者协议
-char_1032_excu2,1032,excu2,近卫,圣约送葬人,shengyaosongzangren,syszr,Executor the Ex Foedere,LT40,6,萨科塔,遗嘱执行,近身铳斗,圣约决裁
-char_1033_swire2,1033,swire2,特种,琳琅诗怀雅,linlangshihuaiya,llshy,Swire the Elegant Wit,LM22,6,菲林,仗义疏财,“见面礼”,千金一掷
-char_1034_jesca2,1034,jesca2,重装,涤火杰西卡,dihuojiexika,dhjxk,Jessica the Liberated,BS30,6,菲林,坚守阵线,掩蔽护卫,饱和迸射
-char_1035_wisdel,1035,wisdel,狙击,维什戴尔,weishidaier,wsde,Wiš'adel,B00W,6,萨卡兹,定点清算,饱和复仇,爆裂黎明
-char_1036_fang2,1036,fang2,先锋,历阵锐枪芬,lizhenruiqiangfen,lzrqf,Fang the Fire-sharpened,RF04,5,库兰塔,贯敌刺枪,执守阵线,
-char_1037_amiya3,1037,amiya3,医疗,阿米娅(医疗),amiya(yiliao),amy(yl),Amiya,R001,5,卡特斯/奇美拉,哀恸共情,慈悲愿景,
-char_1038_whitw2,1038,whitw2,术师,荒芜拉普兰德,huangwulapulande,hwlpld,Lappland the Decadenza,SR04,6,鲁珀,慵怠者悲鸣,逐猎狂飙,终幕·浩劫
-char_1039_thorn2,1039,thorn2,特种,引星棘刺,yinxingjici,yxjc,Thorns the Lodestar,II02,6,阿戈尔,度算浪波,解构涌潮,“我的海疆”
-char_1040_blaze2,1040,blaze2,术师,烛煌,zhuhuang,zh,Blaze the Igniting Spark,REX1,6,菲林,炙手之援,沸血燎原,众恶的焚场
-char_1041_angel2,1041,angel2,特种,新约能天使,xinyaonengtianshi,xynts,Exusiai the New Covenant,PL08,6,萨科塔,天空大扫除,开火成瘾症,使命必达！
 char_106_franka,106,franka,近卫,芙兰卡,fulanka,flk,Franka,BS01,5,沃尔珀,迅捷打击·γ型,极致锋度,
 char_107_liskam,107,liskam,重装,雷蛇,leishe,ls,Liskarm,BS02,5,瓦伊凡,充能防御,反击电弧,
 char_108_silent,108,silent,医疗,赫默,hemo,hm,Silence,RL01,5,黎博利,治疗强化·γ型,医疗无人机,
@@ -69,8 +42,6 @@ char_147_shining,147,shining,医疗,闪灵,shanling,sl,Shining,FO01,6,萨卡兹,
 char_148_nearl,148,nearl,重装,临光,linguang,lg,Nearl,FO02,5,库兰塔,急救,急救模式,
 char_149_scave,149,scave,先锋,清道夫,qingdaofu,qdf,Scavenger,SW02,4,札拉克,冲锋号令·β型,冲锋号令·攻击,
 char_150_snakek,150,snakek,重装,蛇屠箱,shetuxiang,stx,Cuora,IU05,4,匹特拉姆,防御力强化·β型,壳状防御,
-char_1502_crosly,1502,crosly,特种,弑君者,shijunzhe,sjz,Crownslayer,R315,6,瑞柏巴,尘烟蔽目,硝烟震爆,烽烟行刑场
-char_1505_frstar,1505,frstar,N/A,霜星,shuangxing,sx,N/A,N/A,N/A,N/A,,,
 char_151_myrtle,151,myrtle,先锋,桃金娘,taojinniang,tjn,Myrtle,R108,4,杜林,支援号令·β型,治愈之翼,
 char_154_morgan,154,morgan,近卫,摩根,mogen,mg,Morgan,GG02,5,菲林,街头好手,无畏招架,
 char_155_tiger,155,tiger,近卫,因陀罗,yintuoluo,ytl,Indra,GG03,5,菲林,碎甲拳,裂魂,
@@ -101,15 +72,7 @@ char_197_poca,197,poca,狙击,早露,zaolu,zl,Роса,USS4,6,乌萨斯,攻击�
 char_198_blackd,198,blackd,先锋,讯使,xunshi,xs,Courier,JC04,4,依特拉,冲锋号令·β型,冲锋号令·防御,
 char_199_yak,199,yak,重装,角峰,jiaofeng,jf,Matterhorn,JC03,4,丰蹄,体能强化,抗寒体质,
 char_201_moeshd,201,moeshd,重装,可颂,kesong,ks,Croissant,PL04,5,丰蹄,自动防御,磁爆锤,
-char_2012_typhon,2012,typhon,狙击,提丰,tifeng,tf,Typhon,SI07,6,萨卡兹,迅捷打击·γ型,冰原秩序,“永恒狩猎”
-char_2013_cerber,2013,cerber,术师,刻俄柏,keebo,keb,Ceobe,R155,6,佩洛,“很冰的斧”,“很热的刀”,“很重的枪”
-char_2014_nian,2014,nian,重装,年,nian,n,Nian,NM01,6,未公开,锡灼,铜印,铁御
-char_2015_dusk,2015,dusk,术师,夕,xi,x,Dusk,NM02,6,未公开,工笔入化,泼墨淋漓,写意胜形
 char_202_demkni,202,demkni,重装,塞雷娅,saileiya,sly,Saria,RL02,6,瓦伊凡,急救,药物配置,钙质化
-char_2023_ling,2023,ling,辅助,令,ling,l,Ling,NM03,6,未公开,重进酒,笑鸣瑟,宁作吾
-char_2024_chyue,2024,chyue,近卫,重岳,chongyue,cy,Chongyue,NM04,6,未公开,冲盈,拂尘,我无
-char_2025_shu,2025,shu,重装,黍,shu,s,Shu,NM05,6,未公开,化被草木,嘉禾盈仓,离离枯荣
-char_2026_yu,2026,yu,重装,余,yu,y,Yu,NM06,6,未公开,今日做东,厚礼上宾,灶里乾坤
 char_204_platnm,204,platnm,狙击,白金,baijin,bj,Platinum,KZ03,5,库兰塔,攻击力强化·γ型,天马视域,
 char_206_gnosis,206,gnosis,辅助,灵知,lingzhi,lz,Gnosis,JC02,6,黎博利,高速思考,零度爆发,失温症
 char_208_melan,208,melan,近卫,玫兰莎,meilansha,mls,Melantha,PA41,3,菲林,攻击力强化·α型,,
@@ -213,115 +176,12 @@ char_385_finlpp,385,finlpp,医疗,清流,qingliu,ql,Purestream,R160,4,阿戈尔,
 char_388_mint,388,mint,术师,薄绿,bolu,bl,Mint,VC08,5,菲林,风语,聚能涡旋,
 char_391_rosmon,391,rosmon,狙击,迷迭香,midiexiang,mdx,Rosmontis,RE45,6,菲林,思维膨大,末梢阻断,“如你所愿”
 char_400_weedy,400,weedy,特种,温蒂,wendi,wd,Weedy,R117,6,阿戈尔,炮管敲击,水炮模式,液氮大炮
-char_4000_jnight,4000,jnight,狙击,正义骑士号,zhengyiqishihao,zyqsh,"""Justice Knight""",KZ15,1,,,,
-char_4004_pudd,4004,pudd,术师,布丁,buding,bd,Pudding,CB03,4,阿戈尔,战术咏唱·β型,扩散电流,
-char_4006_melnte,4006,melnte,狙击,玫拉,meila,ml,Melanite,CB22,5,斐迪亚,饱和脉冲,临界爆发,
-char_4009_irene,4009,irene,近卫,艾丽妮,ailini,aln,Irene,II07,6,黎博利,起风,裂潮,判决
 char_401_elysm,401,elysm,先锋,极境,jijing,jj,Elysium,R131,5,黎博利,支援号令·γ型,聆听,
-char_4010_etlchi,4010,etlchi,近卫,隐德来希,yindelaixi,ydlx,Entelechia,R169,6,萨卡兹,玫影觅迹,绯红壁合,灵与欲的惜别
-char_4011_lessng,4011,lessng,近卫,止颂,zhisong,zs,Lessing,LN07,6,卡普里尼,强力击·γ型,虔修对决,苦修破誓
-char_4013_kjera,4013,kjera,术师,耶拉,yela,yl,Kjera,JC00,5,未公开,攻击力强化·γ型,心随意动,
-char_4014_lunacu,4014,lunacu,狙击,子月,ziyue,zy,Lunacub,SR37,5,鲁珀,狩猎时刻,伏击之影,
-char_4015_spuria,4015,spuria,特种,空构,konggou,kg,Spuria,LT12,5,萨科塔,见机行事,临场铳械改装,
-char_4016_kazema,4016,kazema,特种,风丸,fengwan,fw,Kazemaru,HK09,5,菲林,纸艺·迅击,纸艺·双影,
-char_4017_puzzle,4017,puzzle,先锋,谜图,mitu,mt,Puzzle,VC21,5,瓦伊凡,关键线索,疑点追踪,
-char_4019_ncdeer,4019,ncdeer,辅助,九色鹿,jiuselu,jsl,Nine-Colored Deer,YD09,5,埃拉菲亚,人间降吉,仙山去远,
 char_402_tuye,402,tuye,医疗,图耶,tuye,ty,Tuye,SG08,5,丰蹄,水流环,强心剂,
-char_4023_rfalcn,4023,rfalcn,先锋,红隼,hongsun,hs,Kestrel,SG12,5,黎博利,冲锋号令·γ型,醉刃乱舞,
-char_4025_aprot2,4025,aprot2,重装,暮落,muluo,ml,Shalem,VC07,5,斐迪亚,速战速决,燃命狂欢,
-char_4026_vulpis,4026,vulpis,先锋,忍冬,rendong,rd,Vulpisfoglia,SR40,6,沃尔珀,小施惩戒,坠刃拷问,隐狐之艺
-char_4027_heyak,4027,heyak,术师,霍尔海雅,huoerhaiya,hehy,Ho'olheyak,CB88,6,未公开,但为求索,群星逶迤,博览者的狂语
-char_4032_provs,4032,provs,辅助,但书,danshu,ds,Proviso,KZ10,5,库兰塔,纠纷起诉,致胜立论,
-char_4036_forcer,4036,forcer,特种,见行者,jianxingzhe,jxz,Enforcer,LT10,5,萨科塔,护身射击,惊爆射击,
-char_4039_horn,4039,horn,重装,号角,haojiao,hj,Horn,VC16,6,鲁珀,照明榴弹,暴风号令,终极防线
-char_4040_rockr,4040,rockr,术师,洛洛,luoluo,ll,Rockrock,VC18,5,菲林,战术咏唱·γ型,自负此轭,
-char_4041_chnut,4041,chnut,医疗,褐果,heguo,hg,Chestnut,R134,4,杜林,积微成著,厚土迸发,
-char_4042_lumen,4042,lumen,医疗,流明,liuming,lm,Lumen,II09,6,阿戈尔,沐雨,沛霖,灯火不灭
-char_4043_erato,4043,erato,狙击,埃拉托,ailatuo,alt,Erato,MN07,5,黎博利,安眠旋律,英雄赞歌,
-char_4045_heidi,4045,heidi,辅助,海蒂,haidi,hd,Heidi,VC19,5,菲林,虚构故事·怒士,虚构故事·锈城,
-char_4046_ebnhlz,4046,ebnhlz,术师,黑键,heijian,hj,Ebenholz,LN05,6,卡普里尼,渐快急板,荒芜回响,寂静之声
-char_4047_pianst,4047,pianst,重装,车尔尼,cheerni,cen,Czerny,LN06,5,埃拉菲亚,纷飞十指,曲惊四座,
-char_4048_doroth,4048,doroth,特种,多萝西,duoluoxi,dlx,Dorothy,RL07,6,札拉克,危险目标清除,流沙区域生成,高速共振排障
 char_405_absin,405,absin,术师,苦艾,kuai,ka,Absinthe,US11,5,乌萨斯,执法模式,终结连射,
-char_4052_surfer,4052,surfer,先锋,寻澜,xunlan,xl,Surfer,BS07,5,札拉克,探寻,洞悉,
-char_4054_malist,4054,malist,术师,至简,zhijian,zj,Minimalist,SG09,5,杜林,迅捷打击·γ型,神工意匠,
-char_4055_bgsnow,4055,bgsnow,狙击,鸿雪,hongxue,hx,Позёмка,R145,6,鲁珀,抑扬格,点题,锐笔速写
-char_4058_pepe,4058,pepe,近卫,佩佩,peipei,pp,Pepe,SG14,6,菲林,盖戳！,阻遏混乱锤,时光震荡
-char_4062_totter,4062,totter,狙击,铅踝,qianhuai,qh,Totter,SG11,4,黎博利,贯日,破虹,
-char_4063_quartz,4063,quartz,近卫,石英,shiying,sy,Quartz,CB18,4,鲁珀,攻击力强化·β型,全力相搏,
-char_4064_mlynar,4064,mlynar,近卫,玛恩纳,maenna,men,Młynar,KZ08,6,库兰塔,未声张的怒火,未宽解的悲哀,未照耀的荣光
-char_4065_judge,4065,judge,重装,斥罪,chizui,cz,Penance,SR35,6,鲁珀,一锤定音,坚心苦修,披荆斩棘
-char_4066_highmo,4066,highmo,近卫,海沫,haimo,hm,Highmore,II10,5,阿戈尔,回首，断舍,泡影，殆尽,
-char_4067_lolxh,4067,lolxh,近卫,罗小黑,luoxiaohei,lxh,Luo Xiaohei,R161,4,菲林,掠光尾影,碎金为刃,
-char_4071_peper,4071,peper,医疗,明椒,mingjiao,mj,Paprika,R175,5,萨卡兹,掩护作战·γ型,同伴意识,
-char_4072_ironmn,4072,ironmn,辅助,白铁,baitie,bt,Stainless,VC17,6,菲林,极致火力,高效补给,铁钳号·原型机
-char_4077_palico,4077,palico,狙击,泰拉大陆调查团,tailadaludiaochatuan,tldldct,Terra Research Commission,MH01,1,未公开,,,
-char_4078_bdhkgt,4078,bdhkgt,狙击,截云,jieyun,jy,Jieyun,YD15,5,阿纳萨,探前路,掷旧尘,
-char_4079_haini,4079,haini,辅助,海霓,haini,hn,Lucilla,AE05,5,阿戈尔,迷惑性洋流图,阻滞性显色剂,
-char_4080_lin,4080,lin,术师,林,lin,l,Lin,LM21,6,札拉克,玲珑,荫庇,流光乍裂
-char_4081_warmy,4081,warmy,术师,温米,wenmi,wm,Warmy,RB14,5,卡特斯,炎炎火焰,滔滔热流,
-char_4082_qiubai,4082,qiubai,近卫,仇白,qiubai,qb,Qiubai,YD20,6,埃拉菲亚,留羽,承影,问雪
-char_4083_chimes,4083,chimes,近卫,铎铃,duoling,dl,Wind Chimes,YD17,5,丰蹄,攻击力强化·γ型,乡心无改,
-char_4087_ines,4087,ines,先锋,伊内丝,yineisi,yns,Ines,B215,6,未公开,淬影突袭,暗夜无明,独影归途
-char_4088_hodrer,4088,hodrer,近卫,赫德雷,hedelei,hdl,Hoederer,B216,6,萨卡兹,重锋不熄,余烬重荷,死境硝烟
-char_4091_ulika,4091,ulika,辅助,U-Official,U-Official,U-Official,U-Official,U007,1,札拉克,,,
-char_4093_frston,4093,frston,重装,Friston-3,Friston-3,Friston-3,Friston-3,RCX5,1,,,,
-char_4098_vvana,4098,vvana,近卫,薇薇安娜,weiweianna,wwan,Viviana,LN11,6,埃拉菲亚,光影迅捷剑,烛燃影息,“明灭”
-char_4100_caper,4100,caper,狙击,跃跃,yueyue,yy,Caper,BV32,4,卡特斯,强力击·β型,乐趣加倍,
-char_4102_threye,4102,threye,辅助,凛视,linshi,ls,Valarqvin,SI06,5,萨卡兹,我见崩毁之前,我见枯朽之后,
-char_4104_coldst,4104,coldst,狙击,冰酿,bingniang,bn,Coldshot,CB28,5,埃拉菲亚,攻击力强化·γ型,酣醉之夜,
-char_4105_almond,4105,almond,特种,杏仁,xingren,xr,Almond,BS05,5,佩洛,磁力抓取,强力牵引,
-char_4106_bryota,4106,bryota,近卫,苍苔,cangtai,ct,Bryophyta,SS03,5,黎博利,强力击·β型,土石的恒心,
-char_4107_vrdant,4107,vrdant,特种,维荻,weidi,wd,Verdant,VC25,4,斐迪亚,苍翠屏障,双刃毒藤,
-char_4109_baslin,4109,baslin,重装,深律,shenlv,sl,Bassline,LN13,5,鲁珀,急救,沉音宁神,
 char_411_tomimi,411,tomimi,术师,特米米,temimi,tmm,Tomimi,SG05,5,阿达克利斯,部族技艺,嘉维尔保护方案,
-char_4110_delphn,4110,delphn,术师,戴菲恩,daifeien,dfe,Delphine,VC23,5,菲林,“贯注”,“抢攻”,
-char_4114_harold,4114,harold,医疗,哈洛德,haluode,hld,Harold,VC27,5,菲林,治疗强化·γ型,重症优先,
-char_4116_blkkgt,4116,blkkgt,近卫,锏,jian,j,Degenbrecher,JC07,6,卡普里尼,纯粹的武力,无声的嘲笑,归于宁静
-char_4117_ray,4117,ray,狙击,莱伊,laiyi,ly,Ray,RB15,6,卡特斯,脱身矢,广域警觉,“得见光芒”
-char_4119_wanqin,4119,wanqin,先锋,万顷,wanqing,wq,Wanqing,YD13,5,丰蹄,支援号令·γ型,应东风,
-char_4121_zuole,4121,zuole,近卫,左乐,zuole,zl,Zuo Le,YD06,6,斐迪亚,破虏,行险,佑序有炎
-char_4122_grabds,4122,grabds,辅助,小满,xiaoman,xm,Grain Buds,YD14,5,黎博利,竹笛飞声,乡音沉沉,
-char_4123_ela,4123,ela,特种,艾拉,aila,al,Ela,RS05,6,未知,眩目阻滞,震荡坚守,“博萨克风暴”
-char_4124_iana,4124,iana,特种,双月,huangyue,hy,Iana,RS07,5,未知,幻影诡雷,全知者的战术,
-char_4125_rdoc,4125,rdoc,近卫,医生,yisheng,ys,Doc,RS06,5,未知,以暴制暴,激素手枪,
-char_4126_fuze,4126,fuze,近卫,导火索,daohuosuo,dhs,Fuze,RS08,5,未知,火力侦察,霰射炸药,
-char_4130_luton,4130,luton,重装,露托,lutuo,lt,Lutonada,BV33,4,札拉克,强力击·β型,强磁防卫,
-char_4131_odda,4131,odda,近卫,奥达,aoda,ad,Odda,R167,5,萨卡兹,火花溅射,锻锤之力,
-char_4132_ascln,4132,ascln,特种,阿斯卡纶,asikalun,askl,Ascalon,SW00,6,萨卡兹,追袭,恩赐,降临
-char_4133_logos,4133,logos,术师,逻各斯,luogesi,lgs,Logos,RE03,6,萨卡兹,殁亡,提喻,延异视阈
-char_4134_cetsyr,4134,cetsyr,辅助,魔王,mowang,mw,Civilight Eterna,DWDB,6,未公开,往昔萦绕身旁,明日渺远不及,编织重构现世
-char_4136_phonor,4136,phonor,辅助,PhonoR-0,PhonoR-0,PhonoR-0,PhonoR-0,RCX6,1,,,,
-char_4137_udflow,4137,udflow,重装,深巡,shenxun,sx,Underflow,AE03,5,阿戈尔,侵袭破坏应对,行动能力剥夺,
-char_4138_narant,4138,narant,狙击,娜仁图亚,narentuya,nrty,Narantuya,SG17,6,库兰塔,旋刃,恶魇,吞日
-char_4139_papyrs,4139,papyrs,医疗,莎草,suocao,sc,Papyrus,SG19,5,菲林,巧思乍现,临考发挥,
-char_4140_lasher,4140,lasher,辅助,衡沙,hengsha,hs,Sand Reckoner,SG23,5,黎博利,上紧发条,权知轻重,
-char_4141_marcil,4141,marcil,术师,玛露西尔,maluxier,mlxe,Marcille,DD02,6,精灵,才女的实力,召唤使魔,爆破魔法
-char_4142_laios,4142,laios,近卫,莱欧斯,laiousi,los,Laios,DD01,5,长身人（自称）,胆小剑助,威吓战法,
-char_4143_sensi,4143,sensi,重装,森西,senxi,sx,Senshi,DD04,5,矮人（自称）,单人份料理,团体魔物大餐,
-char_4144_chilc,4144,chilc,先锋,齐尔查克,qierchake,qeck,Chilchuck,DD03,5,半身人（自称）,开锁工具,随机应变,
-char_4145_ulpia,4145,ulpia,近卫,乌尔比安,wuerbian,weba,Ulpianus,AA00,6,阿戈尔,必须促成的接触,必须维系的界限,必须开辟的通路
-char_4146_nymph,4146,nymph,术师,妮芙,nifu,nf,Nymph,R182,6,萨卡兹,笞心击,怵然震爆,心防溃决
-char_4147_mitm,4147,mitm,先锋,渡桥,duqiao,dq,Mitm,R184,5,萨卡兹,遥控解体,承压功率,
-char_4148_philae,4148,philae,重装,菲莱,feilai,fl,Philae,SG10,5,萨卡兹,灵河护佑,冥河诅咒,
 char_415_flint,415,flint,近卫,燧石,suishi,ss,Flint,SG06,5,黎博利,不息,锋芒毕露,
-char_4151_tinman,4151,tinman,特种,锡人,xiren,xr,Tin Man,CB30,5,未公开,“老科利”,“大拉里”,
-char_4155_talr,4155,talr,特种,裁度,caiduo,cd,Figurino,SR41,5,鲁珀,量衣尺,缝线缠身,
 char_416_zumama,416,zumama,重装,森蚺,senran,sr,Eunectes,SG03,6,斐迪亚,轻型挂斧,震慑劈砍,钢铁意志
-char_4162_cathy,4162,cathy,辅助,凯瑟琳,kaiselin,ksl,Catherine,VC20,5,菲林,岁月锻打,战火淬炼,
-char_4163_rosesa,4163,rosesa,医疗,瑰盐,guiyan,gy,Rose Salt,II11,5,斐迪亚,上佳的应急药呀,绝妙的长效药呀,
-char_4164_tecno,4164,tecno,术师,特克诺,tekenuo,tkn,Tecno,BV23,5,杜林,关节锁定,恣意挥洒,
-char_4165_ctrail,4165,ctrail,特种,云迹,yunji,yj,Contrail,CB33,4,札拉克,紧急升空,掠空飞翎,
-char_4171_wulfen,4171,wulfen,特种,钼铅,muqian,mq,Wulfenite,SG27,5,斐迪亚,“驱兽专用”,“顽石专用”,
-char_4172_xingzh,4172,xingzh,辅助,行箸,xingzhu,xz,Xingzhu,YD18,5,菲林,盈帙满笥,食不厌精,
-char_4173_nowell,4173,nowell,医疗,诺威尔,nuoweier,nwe,Nowell,VC29,5,沃尔珀,步履不停,生命不息,
-char_4177_brigid,4177,brigid,狙击,水灯心,shuidengxin,sdx,Brigid,DB04,5,佩洛,所熟知的,可驯服的,
-char_4178_alanna,4178,alanna,辅助,阿兰娜,alanna,aln,Alanna,RB17,5,萨弗拉,气动增压,“万斤顶”,
-char_4179_monstr,4179,monstr,医疗,Mon3tr,Mon3tr,Mon3tr,Mon3tr,R003,6,未公开,策略：超压链接,策略：超负荷,策略：熔毁
-char_4187_graceb,4187,graceb,近卫,聆音,lingyin,ly,Gracebearer,BV27,5,未公开,开颅挽歌,破膛弥撒,
-char_4188_confes,4188,confes,先锋,CONFESS-47,CONFESS-47,CONFESS-47,CONFESS-47,LT47,1,,,,
-char_4193_lemuen,4193,lemuen,狙击,蕾缪安,leimouan,lma,Lemuen,LT17,6,萨科塔,重逢问候,归乡邀约,礼炮·强制追思
-char_4194_rmixer,4194,rmixer,重装,信仰搅拌机,xinyangjiaobanji,xyjbj,Sankta Miksaparato,LT32,6,萨科塔,铳骑主考官,八臂电锯侠,退休前布道
 char_420_flamtl,420,flamtl,先锋,焰尾,yanwei,yw,Flametail,KZ11,6,札拉克,迅敏直觉,“红松林”,焰心
 char_421_crow,421,crow,近卫,羽毛笔,yumaobi,ymb,La Pluma,BV13,5,黎博利,高速切割,收割,
 char_422_aurora,422,aurora,重装,极光,jiguang,jg,Aurora,JC09,5,乌萨斯,固守家园,人工降雪,
@@ -373,7 +233,6 @@ char_500_noirc,500,noirc,重装,黑角,heijiao,hj,Noir Corne,A43,2,鬼,,,
 char_501_durin,501,durin,术师,杜林,dulin,dl,Durin,A44,2,杜林,,,
 char_502_nblade,502,nblade,先锋,夜刀,yedao,yd,Yato,A41,2,鬼,,,
 char_503_rang,503,rang,狙击,巡林者,xunlinzhe,xlz,Rangers,A42,2,萨弗拉,,,
-,,,,,,,,,,,,,
 char_504_rguard,504,rguard,,预备干员-近战,yubeiganyuan-jinzhan,ybgy-jz,Reserve Operator - Melee,,,,,,
 char_505_rcast,505,rcast,,预备干员-术师,yubeiganyuan-zhushi,ybgy-zs,Reserve Operator - Caster,,,,,,
 char_506_rmedic,506,rmedic,,预备干员-后勤,yubeiganyuan-houqin,ybgy-hq,Reserve Operator - Logistics,,,,,,
@@ -401,3 +260,143 @@ char_612_accast,612,accast,,Pith(卫戍协议),Pith(weishuxieyi),Pith(wsxy),Pith
 char_613_acmedc,613,acmedc,,Touch(卫戍协议),Touch(weishuxieyi),Touch(wsxy),Touch(AC),,,,慨赠,宛如天启,恳切福音
 char_614_acsupo,614,acsupo,,Raidian(卫戍协议),Raidian(weishuxieyi),Raidian(wsxy),Raidian(AC),,,,双声,三形,信号跃动
 char_615_acspec,615,acspec,,Misery(卫戍协议),Misery(weishuxieyi),Misery(wsxy),Misery(AC),,,,物理的服从,战争的恭顺,空间的归依
+char_1001_amiya2,1001,amiya2,近卫,阿米娅(近卫),amiya(jinwei),amy(jw),Amiya,R001,5,卡特斯/奇美拉,影霄·奔夜,影霄·绝影,
+char_1011_lava2,1011,lava2,术师,炎狱炎熔,yanyuyanrong,yyyr,Lava the Purgatory,RF01,5,萨卡兹,焰淬匕首,狱火之环,
+char_1012_skadi2,1012,skadi2,辅助,浊心斯卡蒂,zhuoxinsikadi,zxskd,Skadi the Corrupting Heart,CR01,6,未公开,同归殊途之吟,同葬无光之愿,"""潮涌，潮枯"""
+char_1013_chen2,1013,chen2,狙击,假日威龙陈,jiariweilongchen,jrwlc,Ch'en the Holungday,R112,6,龙,高压冲击,“堇青之夜”,“假日风暴”
+char_1014_nearl2,1014,nearl2,近卫,耀骑士临光,yaoqishilinguang,yqslg,Nearl the Radiant Knight,KZ01,6,库兰塔,灿焰长刃,逐夜烁光,耀阳颔首
+char_1016_agoat2,1016,agoat2,医疗,纯烬艾雅法拉,chunjinaiyafala,cjayfl,Eyjafjalla the Hvít Aska,LN10,6,卡普里尼,无声润物,云霭荫佑,火山回响
+char_1019_siege2,1019,siege2,近卫,维娜·维多利亚,weina·weiduoliya,wn·wdly,Vina Victoria,VC00,6,阿斯兰,重铸晖光,进赴故土,俱以我之名
+char_1020_reed2,1020,reed2,医疗,焰影苇草,yanyingweicao,yywc,Reed The Flame Shadow,DB02,6,德拉克,迅捷打击·γ型,枯荣共息,生命火种
+char_1021_kroos2,1021,kroos2,狙击,寒芒克洛丝,hanmangkeluosi,hmkls,Kroos the Keen Glint,RF02,5,卡特斯,无痕,封喉,
+char_1023_ghost2,1023,ghost2,特种,归溟幽灵鲨,guimingyoulingsha,gmyls,Specter the Unchained,CR02,6,阿戈尔,生存的技巧,生存的渴望,生存的重压
+char_1024_hbisc2,1024,hbisc2,医疗,濯尘芙蓉,zhuochenfurong,zcfr,Hibiscus the Purifier,RF03,5,萨卡兹,攻击力强化·γ型,抚业之触,
+char_1026_gvial2,1026,gvial2,近卫,百炼嘉维尔,bailianjiaweier,bljwe,Gavial the Invincible,RF22,6,阿达克利斯,精准痛击,链锯强袭,丛林之魂
+char_1027_greyy2,1027,greyy2,狙击,承曦格雷伊,chengxigeleiyi,cxgly,Greyy the Lightningbearer,RF23,5,佩洛,迅捷打击·γ型,晨曦信标,
+char_1028_texas2,1028,texas2,特种,缄默德克萨斯,jianmodekesasi,jmdkss,Texas the Omertosa,PL07,6,鲁珀,细雨无声,阵雨连绵,剑雨滂沱
+char_1029_yato2,1029,yato2,特种,麒麟R夜刀,qilinRyedao,qlRyd,Kirin R Yato,MH02,6,鬼,鬼人化,乱舞,空中回旋乱舞
+char_1030_noirc2,1030,noirc2,近卫,火龙S黑角,huolongSheijiao,hlShj,Rathalos S Noir Corne,MH03,5,鬼,居合拔刀气刃斩,气刃兜割,
+char_1031_slent2,1031,slent2,辅助,淬羽赫默,cuiyuhemo,cyhm,Silence the Paradigmatic,RL10,6,黎博利,进取之心,俯瞰视界,无畏者协议
+char_1032_excu2,1032,excu2,近卫,圣约送葬人,shengyaosongzangren,syszr,Executor the Ex Foedere,LT40,6,萨科塔,遗嘱执行,近身铳斗,圣约决裁
+char_1033_swire2,1033,swire2,特种,琳琅诗怀雅,linlangshihuaiya,llshy,Swire the Elegant Wit,LM22,6,菲林,仗义疏财,“见面礼”,千金一掷
+char_1034_jesca2,1034,jesca2,重装,涤火杰西卡,dihuojiexika,dhjxk,Jessica the Liberated,BS30,6,菲林,坚守阵线,掩蔽护卫,饱和迸射
+char_1035_wisdel,1035,wisdel,狙击,维什戴尔,weishidaier,wsde,Wiš'adel,B00W,6,萨卡兹,定点清算,饱和复仇,爆裂黎明
+char_1036_fang2,1036,fang2,先锋,历阵锐枪芬,lizhenruiqiangfen,lzrqf,Fang the Fire-sharpened,RF04,5,库兰塔,贯敌刺枪,执守阵线,
+char_1037_amiya3,1037,amiya3,医疗,阿米娅(医疗),amiya(yiliao),amy(yl),Amiya,R001,5,卡特斯/奇美拉,哀恸共情,慈悲愿景,
+char_1038_whitw2,1038,whitw2,术师,荒芜拉普兰德,huangwulapulande,hwlpld,Lappland the Decadenza,SR04,6,鲁珀,慵怠者悲鸣,逐猎狂飙,终幕·浩劫
+char_1039_thorn2,1039,thorn2,特种,引星棘刺,yinxingjici,yxjc,Thorns the Lodestar,II02,6,阿戈尔,度算浪波,解构涌潮,“我的海疆”
+char_1040_blaze2,1040,blaze2,术师,烛煌,zhuhuang,zh,Blaze the Igniting Spark,REX1,6,菲林,炙手之援,沸血燎原,众恶的焚场
+char_1041_angel2,1041,angel2,特种,新约能天使,xinyaonengtianshi,xynts,Exusiai the New Covenant,PL08,6,萨科塔,天空大扫除,开火成瘾症,使命必达！
+char_1502_crosly,1502,crosly,特种,弑君者,shijunzhe,sjz,Crownslayer,R315,6,瑞柏巴,尘烟蔽目,硝烟震爆,烽烟行刑场
+char_1505_frstar,1505,frstar,N/A,霜星,shuangxing,sx,N/A,N/A,N/A,N/A,,,
+char_2012_typhon,2012,typhon,狙击,提丰,tifeng,tf,Typhon,SI07,6,萨卡兹,迅捷打击·γ型,冰原秩序,“永恒狩猎”
+char_2013_cerber,2013,cerber,术师,刻俄柏,keebo,keb,Ceobe,R155,6,佩洛,“很冰的斧”,“很热的刀”,“很重的枪”
+char_2014_nian,2014,nian,重装,年,nian,n,Nian,NM01,6,未公开,锡灼,铜印,铁御
+char_2015_dusk,2015,dusk,术师,夕,xi,x,Dusk,NM02,6,未公开,工笔入化,泼墨淋漓,写意胜形
+char_2023_ling,2023,ling,辅助,令,ling,l,Ling,NM03,6,未公开,重进酒,笑鸣瑟,宁作吾
+char_2024_chyue,2024,chyue,近卫,重岳,chongyue,cy,Chongyue,NM04,6,未公开,冲盈,拂尘,我无
+char_2025_shu,2025,shu,重装,黍,shu,s,Shu,NM05,6,未公开,化被草木,嘉禾盈仓,离离枯荣
+char_2026_yu,2026,yu,重装,余,yu,y,Yu,NM06,6,未公开,今日做东,厚礼上宾,灶里乾坤
+char_4000_jnight,4000,jnight,狙击,正义骑士号,zhengyiqishihao,zyqsh,"""Justice Knight""",KZ15,1,,,,
+char_4004_pudd,4004,pudd,术师,布丁,buding,bd,Pudding,CB03,4,阿戈尔,战术咏唱·β型,扩散电流,
+char_4006_melnte,4006,melnte,狙击,玫拉,meila,ml,Melanite,CB22,5,斐迪亚,饱和脉冲,临界爆发,
+char_4009_irene,4009,irene,近卫,艾丽妮,ailini,aln,Irene,II07,6,黎博利,起风,裂潮,判决
+char_4010_etlchi,4010,etlchi,近卫,隐德来希,yindelaixi,ydlx,Entelechia,R169,6,萨卡兹,玫影觅迹,绯红壁合,灵与欲的惜别
+char_4011_lessng,4011,lessng,近卫,止颂,zhisong,zs,Lessing,LN07,6,卡普里尼,强力击·γ型,虔修对决,苦修破誓
+char_4013_kjera,4013,kjera,术师,耶拉,yela,yl,Kjera,JC00,5,未公开,攻击力强化·γ型,心随意动,
+char_4014_lunacu,4014,lunacu,狙击,子月,ziyue,zy,Lunacub,SR37,5,鲁珀,狩猎时刻,伏击之影,
+char_4015_spuria,4015,spuria,特种,空构,konggou,kg,Spuria,LT12,5,萨科塔,见机行事,临场铳械改装,
+char_4016_kazema,4016,kazema,特种,风丸,fengwan,fw,Kazemaru,HK09,5,菲林,纸艺·迅击,纸艺·双影,
+char_4017_puzzle,4017,puzzle,先锋,谜图,mitu,mt,Puzzle,VC21,5,瓦伊凡,关键线索,疑点追踪,
+char_4019_ncdeer,4019,ncdeer,辅助,九色鹿,jiuselu,jsl,Nine-Colored Deer,YD09,5,埃拉菲亚,人间降吉,仙山去远,
+char_4023_rfalcn,4023,rfalcn,先锋,红隼,hongsun,hs,Kestrel,SG12,5,黎博利,冲锋号令·γ型,醉刃乱舞,
+char_4025_aprot2,4025,aprot2,重装,暮落,muluo,ml,Shalem,VC07,5,斐迪亚,速战速决,燃命狂欢,
+char_4026_vulpis,4026,vulpis,先锋,忍冬,rendong,rd,Vulpisfoglia,SR40,6,沃尔珀,小施惩戒,坠刃拷问,隐狐之艺
+char_4027_heyak,4027,heyak,术师,霍尔海雅,huoerhaiya,hehy,Ho'olheyak,CB88,6,未公开,但为求索,群星逶迤,博览者的狂语
+char_4032_provs,4032,provs,辅助,但书,danshu,ds,Proviso,KZ10,5,库兰塔,纠纷起诉,致胜立论,
+char_4036_forcer,4036,forcer,特种,见行者,jianxingzhe,jxz,Enforcer,LT10,5,萨科塔,护身射击,惊爆射击,
+char_4039_horn,4039,horn,重装,号角,haojiao,hj,Horn,VC16,6,鲁珀,照明榴弹,暴风号令,终极防线
+char_4040_rockr,4040,rockr,术师,洛洛,luoluo,ll,Rockrock,VC18,5,菲林,战术咏唱·γ型,自负此轭,
+char_4041_chnut,4041,chnut,医疗,褐果,heguo,hg,Chestnut,R134,4,杜林,积微成著,厚土迸发,
+char_4042_lumen,4042,lumen,医疗,流明,liuming,lm,Lumen,II09,6,阿戈尔,沐雨,沛霖,灯火不灭
+char_4043_erato,4043,erato,狙击,埃拉托,ailatuo,alt,Erato,MN07,5,黎博利,安眠旋律,英雄赞歌,
+char_4045_heidi,4045,heidi,辅助,海蒂,haidi,hd,Heidi,VC19,5,菲林,虚构故事·怒士,虚构故事·锈城,
+char_4046_ebnhlz,4046,ebnhlz,术师,黑键,heijian,hj,Ebenholz,LN05,6,卡普里尼,渐快急板,荒芜回响,寂静之声
+char_4047_pianst,4047,pianst,重装,车尔尼,cheerni,cen,Czerny,LN06,5,埃拉菲亚,纷飞十指,曲惊四座,
+char_4048_doroth,4048,doroth,特种,多萝西,duoluoxi,dlx,Dorothy,RL07,6,札拉克,危险目标清除,流沙区域生成,高速共振排障
+char_4052_surfer,4052,surfer,先锋,寻澜,xunlan,xl,Surfer,BS07,5,札拉克,探寻,洞悉,
+char_4054_malist,4054,malist,术师,至简,zhijian,zj,Minimalist,SG09,5,杜林,迅捷打击·γ型,神工意匠,
+char_4055_bgsnow,4055,bgsnow,狙击,鸿雪,hongxue,hx,Позёмка,R145,6,鲁珀,抑扬格,点题,锐笔速写
+char_4058_pepe,4058,pepe,近卫,佩佩,peipei,pp,Pepe,SG14,6,菲林,盖戳！,阻遏混乱锤,时光震荡
+char_4062_totter,4062,totter,狙击,铅踝,qianhuai,qh,Totter,SG11,4,黎博利,贯日,破虹,
+char_4063_quartz,4063,quartz,近卫,石英,shiying,sy,Quartz,CB18,4,鲁珀,攻击力强化·β型,全力相搏,
+char_4064_mlynar,4064,mlynar,近卫,玛恩纳,maenna,men,Młynar,KZ08,6,库兰塔,未声张的怒火,未宽解的悲哀,未照耀的荣光
+char_4065_judge,4065,judge,重装,斥罪,chizui,cz,Penance,SR35,6,鲁珀,一锤定音,坚心苦修,披荆斩棘
+char_4066_highmo,4066,highmo,近卫,海沫,haimo,hm,Highmore,II10,5,阿戈尔,回首，断舍,泡影，殆尽,
+char_4067_lolxh,4067,lolxh,近卫,罗小黑,luoxiaohei,lxh,Luo Xiaohei,R161,4,菲林,掠光尾影,碎金为刃,
+char_4071_peper,4071,peper,医疗,明椒,mingjiao,mj,Paprika,R175,5,萨卡兹,掩护作战·γ型,同伴意识,
+char_4072_ironmn,4072,ironmn,辅助,白铁,baitie,bt,Stainless,VC17,6,菲林,极致火力,高效补给,铁钳号·原型机
+char_4077_palico,4077,palico,狙击,泰拉大陆调查团,tailadaludiaochatuan,tldldct,Terra Research Commission,MH01,1,未公开,,,
+char_4078_bdhkgt,4078,bdhkgt,狙击,截云,jieyun,jy,Jieyun,YD15,5,阿纳萨,探前路,掷旧尘,
+char_4079_haini,4079,haini,辅助,海霓,haini,hn,Lucilla,AE05,5,阿戈尔,迷惑性洋流图,阻滞性显色剂,
+char_4080_lin,4080,lin,术师,林,lin,l,Lin,LM21,6,札拉克,玲珑,荫庇,流光乍裂
+char_4081_warmy,4081,warmy,术师,温米,wenmi,wm,Warmy,RB14,5,卡特斯,炎炎火焰,滔滔热流,
+char_4082_qiubai,4082,qiubai,近卫,仇白,qiubai,qb,Qiubai,YD20,6,埃拉菲亚,留羽,承影,问雪
+char_4083_chimes,4083,chimes,近卫,铎铃,duoling,dl,Wind Chimes,YD17,5,丰蹄,攻击力强化·γ型,乡心无改,
+char_4087_ines,4087,ines,先锋,伊内丝,yineisi,yns,Ines,B215,6,未公开,淬影突袭,暗夜无明,独影归途
+char_4088_hodrer,4088,hodrer,近卫,赫德雷,hedelei,hdl,Hoederer,B216,6,萨卡兹,重锋不熄,余烬重荷,死境硝烟
+char_4091_ulika,4091,ulika,辅助,U-Official,U-Official,U-Official,U-Official,U007,1,札拉克,,,
+char_4093_frston,4093,frston,重装,Friston-3,Friston-3,Friston-3,Friston-3,RCX5,1,,,,
+char_4098_vvana,4098,vvana,近卫,薇薇安娜,weiweianna,wwan,Viviana,LN11,6,埃拉菲亚,光影迅捷剑,烛燃影息,“明灭”
+char_4100_caper,4100,caper,狙击,跃跃,yueyue,yy,Caper,BV32,4,卡特斯,强力击·β型,乐趣加倍,
+char_4102_threye,4102,threye,辅助,凛视,linshi,ls,Valarqvin,SI06,5,萨卡兹,我见崩毁之前,我见枯朽之后,
+char_4104_coldst,4104,coldst,狙击,冰酿,bingniang,bn,Coldshot,CB28,5,埃拉菲亚,攻击力强化·γ型,酣醉之夜,
+char_4105_almond,4105,almond,特种,杏仁,xingren,xr,Almond,BS05,5,佩洛,磁力抓取,强力牵引,
+char_4106_bryota,4106,bryota,近卫,苍苔,cangtai,ct,Bryophyta,SS03,5,黎博利,强力击·β型,土石的恒心,
+char_4107_vrdant,4107,vrdant,特种,维荻,weidi,wd,Verdant,VC25,4,斐迪亚,苍翠屏障,双刃毒藤,
+char_4109_baslin,4109,baslin,重装,深律,shenlv,sl,Bassline,LN13,5,鲁珀,急救,沉音宁神,
+char_4110_delphn,4110,delphn,术师,戴菲恩,daifeien,dfe,Delphine,VC23,5,菲林,“贯注”,“抢攻”,
+char_4114_harold,4114,harold,医疗,哈洛德,haluode,hld,Harold,VC27,5,菲林,治疗强化·γ型,重症优先,
+char_4116_blkkgt,4116,blkkgt,近卫,锏,jian,j,Degenbrecher,JC07,6,卡普里尼,纯粹的武力,无声的嘲笑,归于宁静
+char_4117_ray,4117,ray,狙击,莱伊,laiyi,ly,Ray,RB15,6,卡特斯,脱身矢,广域警觉,“得见光芒”
+char_4119_wanqin,4119,wanqin,先锋,万顷,wanqing,wq,Wanqing,YD13,5,丰蹄,支援号令·γ型,应东风,
+char_4121_zuole,4121,zuole,近卫,左乐,zuole,zl,Zuo Le,YD06,6,斐迪亚,破虏,行险,佑序有炎
+char_4122_grabds,4122,grabds,辅助,小满,xiaoman,xm,Grain Buds,YD14,5,黎博利,竹笛飞声,乡音沉沉,
+char_4123_ela,4123,ela,特种,艾拉,aila,al,Ela,RS05,6,未知,眩目阻滞,震荡坚守,“博萨克风暴”
+char_4124_iana,4124,iana,特种,双月,huangyue,hy,Iana,RS07,5,未知,幻影诡雷,全知者的战术,
+char_4125_rdoc,4125,rdoc,近卫,医生,yisheng,ys,Doc,RS06,5,未知,以暴制暴,激素手枪,
+char_4126_fuze,4126,fuze,近卫,导火索,daohuosuo,dhs,Fuze,RS08,5,未知,火力侦察,霰射炸药,
+char_4130_luton,4130,luton,重装,露托,lutuo,lt,Lutonada,BV33,4,札拉克,强力击·β型,强磁防卫,
+char_4131_odda,4131,odda,近卫,奥达,aoda,ad,Odda,R167,5,萨卡兹,火花溅射,锻锤之力,
+char_4132_ascln,4132,ascln,特种,阿斯卡纶,asikalun,askl,Ascalon,SW00,6,萨卡兹,追袭,恩赐,降临
+char_4133_logos,4133,logos,术师,逻各斯,luogesi,lgs,Logos,RE03,6,萨卡兹,殁亡,提喻,延异视阈
+char_4134_cetsyr,4134,cetsyr,辅助,魔王,mowang,mw,Civilight Eterna,DWDB,6,未公开,往昔萦绕身旁,明日渺远不及,编织重构现世
+char_4136_phonor,4136,phonor,辅助,PhonoR-0,PhonoR-0,PhonoR-0,PhonoR-0,RCX6,1,,,,
+char_4137_udflow,4137,udflow,重装,深巡,shenxun,sx,Underflow,AE03,5,阿戈尔,侵袭破坏应对,行动能力剥夺,
+char_4138_narant,4138,narant,狙击,娜仁图亚,narentuya,nrty,Narantuya,SG17,6,库兰塔,旋刃,恶魇,吞日
+char_4139_papyrs,4139,papyrs,医疗,莎草,suocao,sc,Papyrus,SG19,5,菲林,巧思乍现,临考发挥,
+char_4140_lasher,4140,lasher,辅助,衡沙,hengsha,hs,Sand Reckoner,SG23,5,黎博利,上紧发条,权知轻重,
+char_4141_marcil,4141,marcil,术师,玛露西尔,maluxier,mlxe,Marcille,DD02,6,精灵,才女的实力,召唤使魔,爆破魔法
+char_4142_laios,4142,laios,近卫,莱欧斯,laiousi,los,Laios,DD01,5,长身人（自称）,胆小剑助,威吓战法,
+char_4143_sensi,4143,sensi,重装,森西,senxi,sx,Senshi,DD04,5,矮人（自称）,单人份料理,团体魔物大餐,
+char_4144_chilc,4144,chilc,先锋,齐尔查克,qierchake,qeck,Chilchuck,DD03,5,半身人（自称）,开锁工具,随机应变,
+char_4145_ulpia,4145,ulpia,近卫,乌尔比安,wuerbian,weba,Ulpianus,AA00,6,阿戈尔,必须促成的接触,必须维系的界限,必须开辟的通路
+char_4146_nymph,4146,nymph,术师,妮芙,nifu,nf,Nymph,R182,6,萨卡兹,笞心击,怵然震爆,心防溃决
+char_4147_mitm,4147,mitm,先锋,渡桥,duqiao,dq,Mitm,R184,5,萨卡兹,遥控解体,承压功率,
+char_4148_philae,4148,philae,重装,菲莱,feilai,fl,Philae,SG10,5,萨卡兹,灵河护佑,冥河诅咒,
+char_4151_tinman,4151,tinman,特种,锡人,xiren,xr,Tin Man,CB30,5,未公开,“老科利”,“大拉里”,
+char_4155_talr,4155,talr,特种,裁度,caiduo,cd,Figurino,SR41,5,鲁珀,量衣尺,缝线缠身,
+char_4162_cathy,4162,cathy,辅助,凯瑟琳,kaiselin,ksl,Catherine,VC20,5,菲林,岁月锻打,战火淬炼,
+char_4163_rosesa,4163,rosesa,医疗,瑰盐,guiyan,gy,Rose Salt,II11,5,斐迪亚,上佳的应急药呀,绝妙的长效药呀,
+char_4164_tecno,4164,tecno,术师,特克诺,tekenuo,tkn,Tecno,BV23,5,杜林,关节锁定,恣意挥洒,
+char_4165_ctrail,4165,ctrail,特种,云迹,yunji,yj,Contrail,CB33,4,札拉克,紧急升空,掠空飞翎,
+char_4171_wulfen,4171,wulfen,特种,钼铅,muqian,mq,Wulfenite,SG27,5,斐迪亚,“驱兽专用”,“顽石专用”,
+char_4172_xingzh,4172,xingzh,辅助,行箸,xingzhu,xz,Xingzhu,YD18,5,菲林,盈帙满笥,食不厌精,
+char_4173_nowell,4173,nowell,医疗,诺威尔,nuoweier,nwe,Nowell,VC29,5,沃尔珀,步履不停,生命不息,
+char_4177_brigid,4177,brigid,狙击,水灯心,shuidengxin,sdx,Brigid,DB04,5,佩洛,所熟知的,可驯服的,
+char_4178_alanna,4178,alanna,辅助,阿兰娜,alanna,aln,Alanna,RB17,5,萨弗拉,气动增压,“万斤顶”,
+char_4179_monstr,4179,monstr,医疗,Mon3tr,Mon3tr,Mon3tr,Mon3tr,R003,6,未公开,策略：超压链接,策略：超负荷,策略：熔毁
+char_4187_graceb,4187,graceb,近卫,聆音,lingyin,ly,Gracebearer,BV27,5,未公开,开颅挽歌,破膛弥撒,
+char_4188_confes,4188,confes,先锋,CONFESS-47,CONFESS-47,CONFESS-47,CONFESS-47,LT47,1,,,,
+char_4193_lemuen,4193,lemuen,狙击,蕾缪安,leimouan,lma,Lemuen,LT17,6,萨科塔,重逢问候,归乡邀约,礼炮·强制追思
+char_4194_rmixer,4194,rmixer,重装,信仰搅拌机,xinyangjiaobanji,xyjbj,Sankta Miksaparato,LT32,6,萨科塔,铳骑主考官,八臂电锯侠,退休前布道
