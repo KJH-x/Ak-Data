@@ -8,10 +8,13 @@ csv_file_path = input("input (import) CSV file path:")
 file_name = os.path.splitext(os.path.basename(csv_file_path))[0]
 df = pd.read_csv(csv_file_path, dtype=str)
 
-# Sort tags
-empty_columns = [col for col in df.columns if df[col].isna().any() or (df[col] == "").any()]
-duplicate_columns = [col for col in df.columns if df[col].duplicated().any()]
+# Remove completely empty rows
+df = df.dropna(how='all')
+df = df[~(df == '').all(axis=1)]
 
+# Sort tags
+empty_columns = [col for col in df.columns if (df[col].isna() | (df[col] == "")).any()]
+duplicate_columns = [col for col in df.columns if df[col].duplicated().any()]
 
 def is_cjk(char) -> bool:
     return bool(re.search(r'[\u4E00-\u9FFF\u3400-\u4DBF\u3040-\u30FF\uAC00-\uD7AF]', char))
